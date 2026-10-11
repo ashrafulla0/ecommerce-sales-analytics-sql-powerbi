@@ -1,0 +1,3001 @@
+customer_id,segment,region,acquisition_channel,signup_date
+EC00001,Corporate,West,Social Media,2023-01-31
+EC00002,Consumer,West,Organic Search,2023-08-22
+EC00003,Consumer,West,Email,2022-01-16
+EC00004,Consumer,South,Referral,2022-07-31
+EC00005,Consumer,South,Referral,2022-11-25
+EC00006,Home Office,South,Organic Search,2023-07-03
+EC00007,Consumer,South,Email,2022-07-20
+EC00008,Consumer,East,Paid Ads,2023-12-07
+EC00009,Home Office,West,Paid Ads,2023-03-23
+EC00010,Corporate,West,Organic Search,2022-10-10
+EC00011,Consumer,West,Organic Search,2022-01-18
+EC00012,Consumer,South,Paid Ads,2022-08-31
+EC00013,Corporate,South,Social Media,2024-12-19
+EC00014,Corporate,West,Social Media,2023-07-18
+EC00015,Corporate,West,Social Media,2024-09-16
+EC00016,Corporate,North,Organic Search,2023-05-15
+EC00017,Corporate,West,Paid Ads,2022-10-16
+EC00018,Corporate,West,Organic Search,2024-07-29
+EC00019,Corporate,South,Paid Ads,2022-06-07
+EC00020,Corporate,East,Social Media,2023-03-29
+EC00021,Corporate,East,Referral,2023-04-12
+EC00022,Consumer,East,Organic Search,2022-05-22
+EC00023,Corporate,North,Paid Ads,2022-06-11
+EC00024,Consumer,South,Email,2022-01-22
+EC00025,Corporate,West,Paid Ads,2024-11-22
+EC00026,Consumer,South,Referral,2022-02-03
+EC00027,Consumer,South,Paid Ads,2024-11-28
+EC00028,Corporate,West,Organic Search,2022-11-16
+EC00029,Corporate,North,Paid Ads,2024-09-22
+EC00030,Consumer,South,Social Media,2022-06-11
+EC00031,Consumer,North,Organic Search,2023-10-18
+EC00032,Corporate,West,Paid Ads,2023-11-07
+EC00033,Consumer,South,Paid Ads,2024-01-28
+EC00034,Home Office,South,Organic Search,2022-11-16
+EC00035,Home Office,West,Paid Ads,2024-09-13
+EC00036,Consumer,North,Paid Ads,2022-06-18
+EC00037,Consumer,North,Paid Ads,2022-08-21
+EC00038,Consumer,North,Social Media,2022-02-23
+EC00039,Consumer,North,Paid Ads,2024-08-01
+EC00040,Consumer,West,Paid Ads,2022-02-15
+EC00041,Consumer,West,Email,2023-11-13
+EC00042,Corporate,West,Organic Search,2023-10-25
+EC00043,Consumer,North,Social Media,2022-05-10
+EC00044,Corporate,South,Organic Search,2024-09-26
+EC00045,Consumer,West,Organic Search,2022-10-01
+EC00046,Consumer,South,Referral,2023-01-11
+EC00047,Consumer,North,Organic Search,2023-08-10
+EC00048,Consumer,North,Social Media,2024-03-09
+EC00049,Consumer,East,Social Media,2022-10-15
+EC00050,Corporate,South,Organic Search,2022-11-27
+EC00051,Corporate,West,Organic Search,2023-01-28
+EC00052,Consumer,North,Social Media,2023-10-12
+EC00053,Consumer,West,Social Media,2022-07-28
+EC00054,Consumer,North,Paid Ads,2023-02-18
+EC00055,Corporate,West,Organic Search,2024-10-29
+EC00056,Home Office,North,Organic Search,2022-01-15
+EC00057,Consumer,South,Paid Ads,2022-08-28
+EC00058,Consumer,South,Organic Search,2023-05-25
+EC00059,Consumer,South,Paid Ads,2023-03-13
+EC00060,Home Office,East,Referral,2024-11-17
+EC00061,Corporate,West,Social Media,2023-05-07
+EC00062,Consumer,West,Organic Search,2023-04-13
+EC00063,Consumer,East,Social Media,2022-01-20
+EC00064,Consumer,South,Paid Ads,2023-02-02
+EC00065,Consumer,West,Social Media,2024-08-08
+EC00066,Consumer,North,Paid Ads,2024-01-16
+EC00067,Home Office,North,Social Media,2022-05-31
+EC00068,Consumer,North,Organic Search,2022-01-06
+EC00069,Home Office,West,Paid Ads,2022-09-04
+EC00070,Corporate,South,Referral,2023-07-05
+EC00071,Home Office,West,Social Media,2024-11-11
+EC00072,Home Office,South,Organic Search,2023-07-13
+EC00073,Home Office,East,Organic Search,2023-12-10
+EC00074,Consumer,West,Referral,2023-08-06
+EC00075,Home Office,South,Referral,2022-02-28
+EC00076,Consumer,West,Email,2022-07-16
+EC00077,Consumer,West,Email,2022-07-14
+EC00078,Consumer,West,Paid Ads,2024-11-05
+EC00079,Consumer,North,Referral,2024-09-21
+EC00080,Consumer,North,Paid Ads,2023-11-13
+EC00081,Consumer,South,Social Media,2024-11-06
+EC00082,Consumer,South,Organic Search,2022-12-24
+EC00083,Corporate,East,Organic Search,2022-07-01
+EC00084,Consumer,South,Email,2022-05-23
+EC00085,Corporate,West,Referral,2024-03-12
+EC00086,Consumer,South,Paid Ads,2023-12-15
+EC00087,Corporate,North,Organic Search,2022-12-12
+EC00088,Home Office,South,Referral,2024-07-11
+EC00089,Consumer,South,Paid Ads,2024-11-27
+EC00090,Consumer,East,Organic Search,2022-03-10
+EC00091,Consumer,West,Paid Ads,2023-10-10
+EC00092,Corporate,North,Paid Ads,2022-01-22
+EC00093,Consumer,North,Organic Search,2023-05-02
+EC00094,Consumer,South,Paid Ads,2024-09-21
+EC00095,Corporate,South,Email,2022-07-13
+EC00096,Corporate,West,Social Media,2023-11-29
+EC00097,Consumer,West,Social Media,2022-11-16
+EC00098,Corporate,East,Referral,2024-07-05
+EC00099,Home Office,South,Organic Search,2023-07-22
+EC00100,Corporate,West,Email,2024-02-20
+EC00101,Home Office,West,Organic Search,2023-12-29
+EC00102,Consumer,North,Organic Search,2022-10-31
+EC00103,Corporate,South,Paid Ads,2024-07-12
+EC00104,Consumer,South,Paid Ads,2022-10-06
+EC00105,Consumer,North,Social Media,2024-04-04
+EC00106,Corporate,East,Email,2023-12-17
+EC00107,Consumer,West,Organic Search,2024-05-27
+EC00108,Corporate,South,Paid Ads,2024-06-07
+EC00109,Consumer,West,Email,2023-05-16
+EC00110,Consumer,West,Organic Search,2023-08-05
+EC00111,Corporate,South,Organic Search,2024-12-13
+EC00112,Corporate,South,Organic Search,2024-01-05
+EC00113,Home Office,South,Social Media,2023-03-31
+EC00114,Corporate,South,Social Media,2022-03-04
+EC00115,Corporate,North,Organic Search,2024-10-23
+EC00116,Home Office,North,Social Media,2024-08-26
+EC00117,Consumer,North,Paid Ads,2022-02-24
+EC00118,Consumer,South,Social Media,2023-12-11
+EC00119,Consumer,North,Social Media,2023-10-21
+EC00120,Home Office,North,Paid Ads,2022-09-18
+EC00121,Consumer,West,Referral,2022-02-16
+EC00122,Consumer,West,Organic Search,2023-05-25
+EC00123,Corporate,North,Paid Ads,2022-04-23
+EC00124,Consumer,South,Paid Ads,2022-02-16
+EC00125,Corporate,North,Email,2022-10-09
+EC00126,Consumer,West,Social Media,2023-10-28
+EC00127,Consumer,North,Organic Search,2023-12-27
+EC00128,Consumer,East,Organic Search,2024-06-27
+EC00129,Corporate,North,Paid Ads,2022-06-14
+EC00130,Corporate,North,Organic Search,2022-08-25
+EC00131,Consumer,North,Paid Ads,2024-03-22
+EC00132,Corporate,West,Social Media,2023-11-01
+EC00133,Home Office,North,Social Media,2023-08-06
+EC00134,Consumer,West,Organic Search,2024-10-15
+EC00135,Consumer,South,Social Media,2024-12-01
+EC00136,Consumer,North,Social Media,2023-01-10
+EC00137,Corporate,West,Paid Ads,2022-10-24
+EC00138,Consumer,West,Referral,2024-09-15
+EC00139,Consumer,West,Email,2023-09-27
+EC00140,Consumer,North,Referral,2023-07-03
+EC00141,Consumer,West,Social Media,2023-06-19
+EC00142,Home Office,South,Organic Search,2024-10-10
+EC00143,Consumer,West,Organic Search,2023-09-09
+EC00144,Home Office,North,Organic Search,2022-03-20
+EC00145,Consumer,South,Organic Search,2023-11-03
+EC00146,Consumer,North,Organic Search,2023-02-21
+EC00147,Home Office,East,Paid Ads,2023-09-22
+EC00148,Consumer,South,Social Media,2024-07-14
+EC00149,Consumer,East,Paid Ads,2024-01-18
+EC00150,Consumer,South,Paid Ads,2024-09-15
+EC00151,Consumer,West,Social Media,2024-08-08
+EC00152,Home Office,South,Referral,2024-06-06
+EC00153,Consumer,West,Social Media,2024-08-15
+EC00154,Consumer,South,Social Media,2024-07-10
+EC00155,Consumer,West,Email,2022-03-01
+EC00156,Home Office,North,Email,2024-04-13
+EC00157,Corporate,South,Paid Ads,2023-01-08
+EC00158,Corporate,West,Social Media,2022-11-27
+EC00159,Consumer,West,Referral,2022-11-07
+EC00160,Corporate,North,Organic Search,2023-03-02
+EC00161,Consumer,East,Paid Ads,2022-05-23
+EC00162,Consumer,North,Social Media,2022-10-18
+EC00163,Consumer,West,Email,2022-03-30
+EC00164,Consumer,South,Social Media,2022-07-04
+EC00165,Corporate,West,Social Media,2024-09-20
+EC00166,Consumer,West,Paid Ads,2023-05-23
+EC00167,Consumer,West,Organic Search,2022-05-12
+EC00168,Consumer,West,Social Media,2024-06-01
+EC00169,Corporate,North,Social Media,2022-03-15
+EC00170,Corporate,South,Referral,2024-05-11
+EC00171,Consumer,West,Referral,2023-05-27
+EC00172,Corporate,South,Organic Search,2022-02-05
+EC00173,Consumer,North,Referral,2024-10-03
+EC00174,Corporate,West,Email,2023-07-18
+EC00175,Consumer,South,Referral,2023-05-25
+EC00176,Home Office,North,Paid Ads,2023-03-21
+EC00177,Corporate,West,Social Media,2023-01-28
+EC00178,Home Office,North,Referral,2024-04-17
+EC00179,Consumer,South,Paid Ads,2024-08-04
+EC00180,Consumer,West,Social Media,2023-09-25
+EC00181,Consumer,East,Email,2024-08-21
+EC00182,Corporate,North,Referral,2024-10-16
+EC00183,Consumer,South,Email,2024-09-19
+EC00184,Home Office,South,Organic Search,2024-06-25
+EC00185,Consumer,North,Referral,2023-02-23
+EC00186,Consumer,South,Organic Search,2024-10-16
+EC00187,Home Office,South,Paid Ads,2022-07-19
+EC00188,Home Office,North,Organic Search,2023-03-28
+EC00189,Consumer,West,Paid Ads,2024-12-12
+EC00190,Consumer,South,Organic Search,2023-07-08
+EC00191,Consumer,North,Organic Search,2023-02-26
+EC00192,Home Office,South,Email,2024-01-17
+EC00193,Consumer,West,Social Media,2022-04-18
+EC00194,Corporate,West,Organic Search,2024-08-25
+EC00195,Corporate,South,Referral,2023-06-11
+EC00196,Consumer,South,Social Media,2024-02-03
+EC00197,Consumer,South,Email,2022-12-09
+EC00198,Corporate,South,Paid Ads,2022-01-22
+EC00199,Consumer,West,Paid Ads,2022-10-27
+EC00200,Corporate,South,Organic Search,2022-09-21
+EC00201,Consumer,South,Referral,2022-06-17
+EC00202,Corporate,East,Organic Search,2022-11-10
+EC00203,Corporate,South,Organic Search,2023-02-24
+EC00204,Consumer,South,Organic Search,2024-12-19
+EC00205,Consumer,North,Email,2023-08-09
+EC00206,Consumer,South,Referral,2024-02-13
+EC00207,Home Office,South,Email,2022-02-08
+EC00208,Home Office,West,Paid Ads,2024-02-23
+EC00209,Corporate,East,Organic Search,2024-02-12
+EC00210,Consumer,West,Referral,2023-11-04
+EC00211,Consumer,South,Organic Search,2024-08-07
+EC00212,Home Office,North,Email,2023-01-22
+EC00213,Consumer,West,Social Media,2022-04-15
+EC00214,Consumer,West,Paid Ads,2023-07-16
+EC00215,Corporate,South,Organic Search,2024-10-08
+EC00216,Consumer,West,Paid Ads,2022-01-04
+EC00217,Consumer,South,Social Media,2022-01-17
+EC00218,Consumer,West,Paid Ads,2022-12-06
+EC00219,Consumer,West,Paid Ads,2022-08-05
+EC00220,Consumer,North,Email,2023-02-24
+EC00221,Corporate,North,Social Media,2023-04-21
+EC00222,Consumer,West,Paid Ads,2022-01-14
+EC00223,Consumer,North,Organic Search,2024-04-21
+EC00224,Consumer,East,Organic Search,2022-09-11
+EC00225,Consumer,North,Social Media,2022-03-23
+EC00226,Consumer,North,Social Media,2023-11-25
+EC00227,Consumer,South,Paid Ads,2024-11-12
+EC00228,Consumer,North,Social Media,2023-11-28
+EC00229,Corporate,West,Social Media,2024-01-17
+EC00230,Consumer,South,Social Media,2022-12-02
+EC00231,Consumer,North,Organic Search,2022-07-11
+EC00232,Consumer,West,Organic Search,2023-05-30
+EC00233,Consumer,West,Referral,2023-11-07
+EC00234,Consumer,East,Paid Ads,2023-01-14
+EC00235,Consumer,North,Paid Ads,2022-03-16
+EC00236,Consumer,North,Email,2023-09-24
+EC00237,Corporate,North,Email,2023-10-31
+EC00238,Home Office,West,Organic Search,2024-06-01
+EC00239,Consumer,East,Email,2024-09-24
+EC00240,Consumer,West,Referral,2022-01-03
+EC00241,Corporate,West,Organic Search,2023-08-27
+EC00242,Consumer,West,Social Media,2022-03-10
+EC00243,Consumer,North,Paid Ads,2024-09-03
+EC00244,Home Office,North,Paid Ads,2024-07-11
+EC00245,Consumer,West,Organic Search,2024-08-13
+EC00246,Corporate,North,Organic Search,2022-04-19
+EC00247,Consumer,East,Social Media,2024-10-02
+EC00248,Home Office,West,Email,2023-03-31
+EC00249,Consumer,East,Email,2023-05-10
+EC00250,Consumer,West,Organic Search,2023-04-14
+EC00251,Home Office,East,Referral,2024-08-24
+EC00252,Consumer,West,Social Media,2024-06-10
+EC00253,Home Office,South,Social Media,2024-12-01
+EC00254,Consumer,North,Paid Ads,2023-09-01
+EC00255,Consumer,West,Social Media,2024-05-12
+EC00256,Corporate,South,Social Media,2024-09-16
+EC00257,Consumer,West,Paid Ads,2023-10-31
+EC00258,Consumer,West,Email,2023-02-17
+EC00259,Consumer,North,Organic Search,2023-10-16
+EC00260,Consumer,South,Paid Ads,2023-06-01
+EC00261,Corporate,West,Paid Ads,2023-04-11
+EC00262,Consumer,West,Social Media,2022-01-03
+EC00263,Corporate,West,Paid Ads,2023-08-09
+EC00264,Consumer,West,Organic Search,2024-11-30
+EC00265,Consumer,East,Social Media,2023-11-08
+EC00266,Consumer,East,Organic Search,2022-10-28
+EC00267,Consumer,West,Social Media,2022-08-28
+EC00268,Consumer,West,Organic Search,2024-10-27
+EC00269,Consumer,South,Social Media,2024-01-12
+EC00270,Corporate,East,Organic Search,2023-12-13
+EC00271,Consumer,South,Organic Search,2024-10-07
+EC00272,Corporate,North,Social Media,2022-09-27
+EC00273,Consumer,West,Social Media,2022-01-27
+EC00274,Consumer,South,Paid Ads,2022-03-23
+EC00275,Consumer,West,Referral,2023-10-19
+EC00276,Home Office,East,Organic Search,2024-05-13
+EC00277,Consumer,North,Organic Search,2022-09-09
+EC00278,Consumer,East,Email,2022-02-12
+EC00279,Corporate,North,Email,2023-06-09
+EC00280,Home Office,North,Referral,2022-04-07
+EC00281,Consumer,West,Social Media,2023-11-24
+EC00282,Consumer,North,Email,2022-12-29
+EC00283,Corporate,South,Paid Ads,2023-04-22
+EC00284,Consumer,West,Organic Search,2023-05-18
+EC00285,Consumer,East,Referral,2022-05-01
+EC00286,Corporate,North,Email,2023-11-20
+EC00287,Corporate,South,Organic Search,2023-04-05
+EC00288,Consumer,North,Paid Ads,2023-10-08
+EC00289,Consumer,South,Paid Ads,2023-11-14
+EC00290,Consumer,South,Paid Ads,2023-12-13
+EC00291,Consumer,West,Organic Search,2023-04-02
+EC00292,Corporate,South,Paid Ads,2024-07-01
+EC00293,Consumer,East,Email,2024-02-28
+EC00294,Corporate,West,Organic Search,2023-02-16
+EC00295,Consumer,North,Email,2022-12-08
+EC00296,Corporate,South,Paid Ads,2024-04-04
+EC00297,Consumer,North,Organic Search,2023-03-03
+EC00298,Corporate,West,Email,2023-11-24
+EC00299,Consumer,East,Referral,2023-10-14
+EC00300,Consumer,South,Social Media,2024-01-17
+EC00301,Corporate,West,Paid Ads,2024-01-11
+EC00302,Consumer,North,Email,2022-04-22
+EC00303,Consumer,West,Organic Search,2024-03-25
+EC00304,Corporate,South,Paid Ads,2022-09-28
+EC00305,Corporate,North,Organic Search,2024-04-13
+EC00306,Corporate,East,Social Media,2024-06-11
+EC00307,Consumer,West,Paid Ads,2023-02-01
+EC00308,Home Office,North,Organic Search,2022-08-01
+EC00309,Corporate,West,Organic Search,2023-11-19
+EC00310,Consumer,East,Email,2022-04-15
+EC00311,Home Office,North,Paid Ads,2022-10-31
+EC00312,Consumer,East,Organic Search,2022-02-06
+EC00313,Corporate,South,Organic Search,2023-07-05
+EC00314,Home Office,South,Email,2024-04-11
+EC00315,Consumer,West,Social Media,2022-09-11
+EC00316,Home Office,North,Social Media,2023-11-25
+EC00317,Consumer,East,Email,2023-11-22
+EC00318,Home Office,East,Organic Search,2023-04-22
+EC00319,Home Office,East,Email,2024-03-24
+EC00320,Consumer,West,Organic Search,2022-08-24
+EC00321,Home Office,West,Paid Ads,2024-09-01
+EC00322,Consumer,South,Organic Search,2024-04-26
+EC00323,Home Office,West,Organic Search,2023-10-22
+EC00324,Consumer,North,Email,2022-07-19
+EC00325,Consumer,South,Paid Ads,2022-11-07
+EC00326,Consumer,East,Paid Ads,2024-01-04
+EC00327,Corporate,North,Paid Ads,2024-09-24
+EC00328,Consumer,West,Paid Ads,2023-03-30
+EC00329,Corporate,North,Social Media,2024-05-10
+EC00330,Consumer,West,Organic Search,2022-10-21
+EC00331,Consumer,West,Email,2022-08-29
+EC00332,Home Office,West,Social Media,2024-08-26
+EC00333,Consumer,North,Paid Ads,2023-07-07
+EC00334,Corporate,South,Email,2024-05-14
+EC00335,Home Office,East,Paid Ads,2024-10-10
+EC00336,Consumer,West,Organic Search,2024-06-07
+EC00337,Corporate,North,Organic Search,2024-06-14
+EC00338,Consumer,North,Referral,2022-09-26
+EC00339,Consumer,North,Paid Ads,2024-04-24
+EC00340,Corporate,South,Social Media,2022-06-30
+EC00341,Corporate,North,Referral,2024-04-17
+EC00342,Consumer,West,Paid Ads,2024-01-04
+EC00343,Consumer,West,Paid Ads,2023-07-02
+EC00344,Consumer,East,Organic Search,2022-05-30
+EC00345,Corporate,West,Organic Search,2024-02-15
+EC00346,Corporate,West,Organic Search,2024-04-18
+EC00347,Consumer,South,Social Media,2023-07-08
+EC00348,Consumer,West,Referral,2023-02-13
+EC00349,Consumer,West,Social Media,2022-05-30
+EC00350,Consumer,South,Email,2023-06-20
+EC00351,Consumer,South,Organic Search,2023-02-08
+EC00352,Home Office,North,Organic Search,2025-01-01
+EC00353,Consumer,East,Referral,2023-01-05
+EC00354,Corporate,East,Email,2023-12-24
+EC00355,Consumer,West,Paid Ads,2024-08-04
+EC00356,Consumer,South,Organic Search,2024-10-03
+EC00357,Consumer,South,Email,2023-01-30
+EC00358,Consumer,West,Paid Ads,2023-01-17
+EC00359,Consumer,East,Email,2023-07-28
+EC00360,Consumer,West,Paid Ads,2024-03-02
+EC00361,Consumer,North,Organic Search,2022-08-07
+EC00362,Consumer,West,Referral,2024-10-10
+EC00363,Consumer,West,Social Media,2023-11-03
+EC00364,Corporate,North,Paid Ads,2024-10-27
+EC00365,Corporate,West,Organic Search,2023-09-29
+EC00366,Consumer,South,Social Media,2023-01-17
+EC00367,Home Office,West,Social Media,2023-02-04
+EC00368,Corporate,West,Referral,2024-01-17
+EC00369,Corporate,South,Social Media,2024-09-27
+EC00370,Consumer,North,Organic Search,2023-02-25
+EC00371,Corporate,South,Email,2023-07-02
+EC00372,Consumer,South,Organic Search,2024-10-12
+EC00373,Consumer,North,Paid Ads,2022-06-20
+EC00374,Consumer,South,Organic Search,2023-10-05
+EC00375,Corporate,East,Organic Search,2022-05-16
+EC00376,Home Office,South,Organic Search,2023-02-05
+EC00377,Consumer,South,Organic Search,2022-04-27
+EC00378,Consumer,North,Organic Search,2023-03-27
+EC00379,Consumer,South,Email,2022-01-02
+EC00380,Consumer,West,Referral,2023-12-21
+EC00381,Consumer,East,Referral,2023-05-25
+EC00382,Home Office,West,Paid Ads,2022-05-20
+EC00383,Consumer,East,Email,2022-02-25
+EC00384,Consumer,East,Referral,2022-01-30
+EC00385,Corporate,South,Email,2022-02-23
+EC00386,Consumer,East,Organic Search,2022-05-30
+EC00387,Home Office,South,Organic Search,2024-11-16
+EC00388,Corporate,South,Email,2022-10-30
+EC00389,Consumer,East,Referral,2024-01-19
+EC00390,Corporate,South,Paid Ads,2022-03-04
+EC00391,Consumer,South,Paid Ads,2024-09-23
+EC00392,Consumer,South,Organic Search,2024-06-18
+EC00393,Consumer,North,Social Media,2022-02-28
+EC00394,Consumer,West,Referral,2023-10-13
+EC00395,Consumer,North,Organic Search,2022-07-17
+EC00396,Consumer,East,Referral,2024-01-13
+EC00397,Consumer,West,Referral,2022-02-17
+EC00398,Corporate,North,Email,2024-02-10
+EC00399,Consumer,North,Social Media,2024-10-28
+EC00400,Corporate,West,Organic Search,2024-02-10
+EC00401,Consumer,West,Paid Ads,2023-01-16
+EC00402,Consumer,South,Social Media,2022-08-21
+EC00403,Consumer,North,Referral,2024-01-05
+EC00404,Consumer,North,Social Media,2023-01-09
+EC00405,Corporate,North,Organic Search,2023-08-15
+EC00406,Consumer,West,Paid Ads,2024-08-22
+EC00407,Corporate,South,Organic Search,2024-08-12
+EC00408,Consumer,South,Paid Ads,2024-05-20
+EC00409,Corporate,West,Paid Ads,2024-04-29
+EC00410,Corporate,North,Email,2024-11-02
+EC00411,Consumer,West,Paid Ads,2024-06-11
+EC00412,Corporate,South,Organic Search,2023-07-24
+EC00413,Consumer,South,Social Media,2024-05-14
+EC00414,Consumer,East,Social Media,2023-08-08
+EC00415,Consumer,South,Referral,2022-04-04
+EC00416,Corporate,South,Social Media,2022-06-06
+EC00417,Consumer,West,Organic Search,2022-12-22
+EC00418,Consumer,East,Paid Ads,2023-02-06
+EC00419,Corporate,North,Paid Ads,2023-04-05
+EC00420,Corporate,East,Organic Search,2024-06-01
+EC00421,Consumer,South,Paid Ads,2023-04-24
+EC00422,Consumer,North,Paid Ads,2024-10-15
+EC00423,Consumer,North,Social Media,2024-05-15
+EC00424,Corporate,West,Organic Search,2024-11-15
+EC00425,Consumer,South,Organic Search,2023-12-08
+EC00426,Consumer,East,Organic Search,2024-06-30
+EC00427,Consumer,North,Social Media,2024-04-27
+EC00428,Consumer,West,Organic Search,2024-12-14
+EC00429,Corporate,East,Organic Search,2022-10-09
+EC00430,Consumer,East,Referral,2023-11-10
+EC00431,Corporate,West,Social Media,2023-07-17
+EC00432,Consumer,North,Email,2024-08-18
+EC00433,Corporate,West,Referral,2024-06-06
+EC00434,Corporate,East,Social Media,2024-09-22
+EC00435,Consumer,West,Email,2024-11-07
+EC00436,Consumer,North,Social Media,2024-01-19
+EC00437,Consumer,South,Paid Ads,2022-04-30
+EC00438,Home Office,South,Paid Ads,2023-08-29
+EC00439,Consumer,North,Paid Ads,2023-05-11
+EC00440,Consumer,West,Social Media,2024-12-19
+EC00441,Consumer,West,Social Media,2022-08-13
+EC00442,Corporate,North,Email,2024-12-22
+EC00443,Consumer,West,Referral,2024-10-07
+EC00444,Home Office,South,Paid Ads,2023-05-29
+EC00445,Consumer,West,Referral,2024-05-07
+EC00446,Consumer,West,Social Media,2022-04-19
+EC00447,Home Office,South,Referral,2023-08-11
+EC00448,Consumer,North,Paid Ads,2022-01-20
+EC00449,Corporate,East,Social Media,2022-11-30
+EC00450,Home Office,West,Social Media,2022-12-26
+EC00451,Consumer,South,Paid Ads,2024-10-25
+EC00452,Consumer,West,Social Media,2024-01-02
+EC00453,Home Office,South,Email,2022-01-14
+EC00454,Consumer,South,Social Media,2023-10-06
+EC00455,Home Office,South,Paid Ads,2022-07-01
+EC00456,Consumer,West,Social Media,2022-11-20
+EC00457,Consumer,West,Organic Search,2024-11-12
+EC00458,Consumer,South,Referral,2022-03-24
+EC00459,Consumer,North,Organic Search,2024-09-25
+EC00460,Consumer,East,Referral,2023-05-04
+EC00461,Corporate,South,Organic Search,2023-10-28
+EC00462,Home Office,North,Paid Ads,2024-08-05
+EC00463,Corporate,East,Social Media,2022-08-14
+EC00464,Consumer,West,Organic Search,2022-07-22
+EC00465,Consumer,North,Paid Ads,2024-10-14
+EC00466,Corporate,East,Social Media,2023-01-19
+EC00467,Corporate,South,Organic Search,2022-03-18
+EC00468,Home Office,West,Paid Ads,2024-11-11
+EC00469,Consumer,North,Referral,2024-02-28
+EC00470,Consumer,West,Organic Search,2022-01-26
+EC00471,Corporate,West,Social Media,2024-11-20
+EC00472,Corporate,West,Organic Search,2023-09-17
+EC00473,Home Office,South,Organic Search,2023-03-20
+EC00474,Consumer,North,Social Media,2023-11-10
+EC00475,Consumer,North,Organic Search,2024-06-13
+EC00476,Consumer,East,Social Media,2023-09-13
+EC00477,Corporate,East,Referral,2024-11-15
+EC00478,Consumer,South,Email,2024-04-18
+EC00479,Home Office,West,Social Media,2022-11-06
+EC00480,Corporate,South,Email,2023-12-18
+EC00481,Consumer,East,Paid Ads,2024-03-20
+EC00482,Consumer,North,Email,2024-09-03
+EC00483,Consumer,South,Email,2024-02-28
+EC00484,Home Office,West,Social Media,2023-02-25
+EC00485,Consumer,South,Email,2022-05-31
+EC00486,Corporate,North,Organic Search,2024-03-26
+EC00487,Consumer,South,Referral,2024-05-03
+EC00488,Home Office,North,Paid Ads,2022-12-31
+EC00489,Consumer,West,Paid Ads,2022-01-18
+EC00490,Corporate,North,Organic Search,2023-03-18
+EC00491,Home Office,North,Organic Search,2024-05-07
+EC00492,Consumer,South,Social Media,2022-01-30
+EC00493,Consumer,North,Organic Search,2023-10-15
+EC00494,Consumer,South,Social Media,2024-11-27
+EC00495,Consumer,West,Paid Ads,2024-01-08
+EC00496,Corporate,West,Social Media,2024-06-04
+EC00497,Consumer,North,Paid Ads,2022-05-10
+EC00498,Corporate,East,Paid Ads,2023-04-09
+EC00499,Consumer,West,Email,2024-01-15
+EC00500,Corporate,West,Organic Search,2022-05-18
+EC00501,Consumer,West,Organic Search,2024-07-16
+EC00502,Consumer,West,Organic Search,2024-03-04
+EC00503,Consumer,West,Paid Ads,2024-02-15
+EC00504,Consumer,West,Paid Ads,2023-01-17
+EC00505,Consumer,South,Social Media,2023-12-23
+EC00506,Corporate,West,Organic Search,2024-10-20
+EC00507,Consumer,West,Social Media,2023-09-20
+EC00508,Consumer,South,Paid Ads,2023-06-18
+EC00509,Home Office,South,Email,2024-04-15
+EC00510,Corporate,South,Organic Search,2022-12-11
+EC00511,Corporate,North,Paid Ads,2023-12-20
+EC00512,Consumer,South,Organic Search,2024-05-24
+EC00513,Home Office,South,Organic Search,2023-02-27
+EC00514,Corporate,North,Social Media,2024-12-22
+EC00515,Consumer,West,Organic Search,2023-02-22
+EC00516,Corporate,South,Paid Ads,2022-11-08
+EC00517,Home Office,East,Organic Search,2024-09-27
+EC00518,Home Office,South,Organic Search,2022-10-14
+EC00519,Consumer,North,Organic Search,2024-12-23
+EC00520,Consumer,North,Paid Ads,2023-05-03
+EC00521,Home Office,South,Paid Ads,2022-07-03
+EC00522,Home Office,East,Paid Ads,2024-07-13
+EC00523,Consumer,West,Paid Ads,2023-05-01
+EC00524,Consumer,North,Paid Ads,2023-01-20
+EC00525,Consumer,North,Email,2022-08-25
+EC00526,Consumer,South,Organic Search,2022-04-10
+EC00527,Consumer,North,Organic Search,2023-02-26
+EC00528,Home Office,West,Organic Search,2023-03-27
+EC00529,Corporate,West,Paid Ads,2022-02-05
+EC00530,Corporate,West,Organic Search,2022-12-17
+EC00531,Corporate,South,Organic Search,2023-01-26
+EC00532,Consumer,South,Social Media,2024-08-25
+EC00533,Consumer,East,Paid Ads,2023-04-09
+EC00534,Corporate,North,Organic Search,2023-08-02
+EC00535,Consumer,South,Organic Search,2023-01-06
+EC00536,Corporate,South,Paid Ads,2022-05-09
+EC00537,Home Office,South,Organic Search,2023-09-13
+EC00538,Consumer,South,Referral,2023-09-04
+EC00539,Consumer,West,Paid Ads,2024-09-09
+EC00540,Home Office,South,Social Media,2023-04-14
+EC00541,Consumer,South,Organic Search,2022-01-19
+EC00542,Consumer,South,Email,2024-09-23
+EC00543,Home Office,North,Paid Ads,2022-10-18
+EC00544,Consumer,West,Social Media,2022-01-07
+EC00545,Corporate,North,Social Media,2024-11-07
+EC00546,Corporate,East,Referral,2023-08-19
+EC00547,Home Office,East,Social Media,2023-10-06
+EC00548,Consumer,West,Paid Ads,2023-10-23
+EC00549,Consumer,South,Social Media,2024-01-04
+EC00550,Consumer,North,Organic Search,2023-04-13
+EC00551,Corporate,South,Organic Search,2022-04-04
+EC00552,Home Office,West,Paid Ads,2022-11-08
+EC00553,Consumer,North,Email,2023-01-03
+EC00554,Corporate,East,Organic Search,2023-05-10
+EC00555,Consumer,West,Organic Search,2024-10-25
+EC00556,Home Office,North,Organic Search,2023-02-19
+EC00557,Corporate,West,Paid Ads,2023-06-27
+EC00558,Consumer,South,Organic Search,2022-04-18
+EC00559,Consumer,West,Paid Ads,2022-12-04
+EC00560,Consumer,West,Paid Ads,2024-10-11
+EC00561,Home Office,North,Referral,2024-03-07
+EC00562,Home Office,West,Paid Ads,2023-01-09
+EC00563,Home Office,South,Email,2024-10-17
+EC00564,Home Office,North,Paid Ads,2024-01-26
+EC00565,Consumer,North,Paid Ads,2023-12-07
+EC00566,Home Office,West,Social Media,2022-07-13
+EC00567,Consumer,South,Email,2023-05-17
+EC00568,Corporate,East,Organic Search,2023-05-15
+EC00569,Consumer,West,Email,2024-05-11
+EC00570,Consumer,West,Organic Search,2023-02-03
+EC00571,Consumer,East,Social Media,2022-11-05
+EC00572,Corporate,South,Referral,2022-04-02
+EC00573,Consumer,West,Referral,2023-06-25
+EC00574,Consumer,North,Organic Search,2024-03-28
+EC00575,Corporate,West,Organic Search,2023-05-16
+EC00576,Corporate,West,Social Media,2023-11-06
+EC00577,Corporate,West,Organic Search,2024-11-22
+EC00578,Consumer,West,Paid Ads,2024-08-07
+EC00579,Home Office,South,Paid Ads,2023-10-02
+EC00580,Corporate,South,Organic Search,2022-12-24
+EC00581,Consumer,North,Paid Ads,2024-05-29
+EC00582,Consumer,North,Paid Ads,2023-09-03
+EC00583,Consumer,South,Paid Ads,2022-12-01
+EC00584,Home Office,East,Organic Search,2022-07-08
+EC00585,Home Office,West,Referral,2024-09-29
+EC00586,Home Office,West,Paid Ads,2023-04-24
+EC00587,Consumer,North,Organic Search,2023-01-26
+EC00588,Consumer,East,Organic Search,2022-08-22
+EC00589,Consumer,West,Paid Ads,2022-12-31
+EC00590,Consumer,East,Paid Ads,2022-04-11
+EC00591,Corporate,North,Social Media,2024-12-12
+EC00592,Consumer,South,Social Media,2022-03-02
+EC00593,Corporate,West,Organic Search,2022-05-16
+EC00594,Corporate,South,Social Media,2023-05-24
+EC00595,Consumer,South,Paid Ads,2022-03-08
+EC00596,Home Office,North,Paid Ads,2023-05-13
+EC00597,Corporate,North,Paid Ads,2022-09-19
+EC00598,Corporate,West,Email,2023-06-16
+EC00599,Consumer,East,Organic Search,2024-07-13
+EC00600,Corporate,West,Referral,2024-04-21
+EC00601,Corporate,North,Organic Search,2022-05-15
+EC00602,Consumer,West,Organic Search,2024-02-25
+EC00603,Consumer,West,Social Media,2022-09-29
+EC00604,Home Office,North,Organic Search,2023-07-08
+EC00605,Consumer,West,Organic Search,2023-11-21
+EC00606,Home Office,East,Organic Search,2022-09-14
+EC00607,Consumer,South,Paid Ads,2022-04-17
+EC00608,Consumer,North,Organic Search,2022-08-02
+EC00609,Consumer,South,Paid Ads,2023-09-15
+EC00610,Consumer,West,Social Media,2023-01-03
+EC00611,Consumer,West,Paid Ads,2023-01-31
+EC00612,Corporate,West,Organic Search,2023-04-10
+EC00613,Consumer,North,Referral,2022-06-05
+EC00614,Consumer,West,Paid Ads,2023-09-04
+EC00615,Corporate,West,Referral,2024-07-16
+EC00616,Consumer,South,Paid Ads,2023-12-04
+EC00617,Home Office,West,Paid Ads,2024-02-01
+EC00618,Corporate,South,Organic Search,2023-06-01
+EC00619,Consumer,West,Organic Search,2023-10-21
+EC00620,Consumer,North,Paid Ads,2022-02-17
+EC00621,Consumer,East,Email,2024-01-27
+EC00622,Consumer,North,Social Media,2023-10-17
+EC00623,Consumer,South,Email,2022-11-01
+EC00624,Consumer,South,Organic Search,2024-03-12
+EC00625,Home Office,East,Social Media,2024-12-18
+EC00626,Home Office,North,Paid Ads,2024-12-14
+EC00627,Corporate,South,Social Media,2022-06-20
+EC00628,Consumer,North,Paid Ads,2022-03-13
+EC00629,Consumer,West,Organic Search,2023-08-11
+EC00630,Consumer,East,Email,2022-09-28
+EC00631,Home Office,South,Social Media,2022-11-25
+EC00632,Consumer,South,Email,2024-09-17
+EC00633,Consumer,South,Social Media,2022-06-16
+EC00634,Home Office,West,Social Media,2024-09-21
+EC00635,Consumer,West,Paid Ads,2022-04-07
+EC00636,Consumer,South,Social Media,2022-02-05
+EC00637,Consumer,West,Organic Search,2023-09-01
+EC00638,Corporate,West,Organic Search,2022-10-17
+EC00639,Consumer,North,Organic Search,2023-08-15
+EC00640,Corporate,East,Paid Ads,2022-03-21
+EC00641,Consumer,West,Social Media,2023-02-26
+EC00642,Corporate,South,Organic Search,2022-02-23
+EC00643,Home Office,West,Organic Search,2024-06-05
+EC00644,Consumer,North,Social Media,2023-10-17
+EC00645,Home Office,West,Organic Search,2024-12-28
+EC00646,Corporate,North,Organic Search,2022-02-22
+EC00647,Consumer,South,Social Media,2024-09-08
+EC00648,Consumer,West,Email,2023-10-06
+EC00649,Consumer,North,Social Media,2023-07-11
+EC00650,Home Office,West,Email,2022-01-03
+EC00651,Corporate,South,Organic Search,2022-11-23
+EC00652,Consumer,West,Organic Search,2023-02-24
+EC00653,Consumer,North,Referral,2024-03-13
+EC00654,Consumer,North,Social Media,2024-11-14
+EC00655,Home Office,North,Email,2024-04-28
+EC00656,Corporate,West,Organic Search,2023-04-30
+EC00657,Consumer,West,Organic Search,2023-01-24
+EC00658,Consumer,North,Organic Search,2022-03-25
+EC00659,Consumer,West,Social Media,2022-09-11
+EC00660,Consumer,West,Email,2022-12-04
+EC00661,Consumer,West,Social Media,2024-08-17
+EC00662,Home Office,South,Social Media,2024-06-15
+EC00663,Consumer,South,Organic Search,2023-12-18
+EC00664,Consumer,West,Organic Search,2023-03-20
+EC00665,Consumer,South,Paid Ads,2023-07-14
+EC00666,Home Office,West,Referral,2023-08-13
+EC00667,Consumer,North,Email,2022-10-01
+EC00668,Consumer,North,Social Media,2023-03-31
+EC00669,Corporate,South,Referral,2022-10-16
+EC00670,Corporate,West,Paid Ads,2023-05-19
+EC00671,Home Office,North,Organic Search,2023-03-21
+EC00672,Consumer,North,Referral,2024-08-10
+EC00673,Consumer,South,Organic Search,2023-05-01
+EC00674,Corporate,West,Organic Search,2022-02-13
+EC00675,Corporate,North,Email,2022-10-09
+EC00676,Consumer,West,Paid Ads,2025-01-04
+EC00677,Corporate,North,Paid Ads,2023-08-08
+EC00678,Home Office,North,Organic Search,2024-10-19
+EC00679,Consumer,South,Organic Search,2023-09-13
+EC00680,Corporate,South,Email,2024-08-22
+EC00681,Corporate,West,Organic Search,2023-09-15
+EC00682,Consumer,South,Email,2022-11-04
+EC00683,Consumer,West,Paid Ads,2022-11-24
+EC00684,Consumer,South,Organic Search,2023-05-20
+EC00685,Consumer,North,Organic Search,2023-03-19
+EC00686,Consumer,West,Email,2024-10-25
+EC00687,Consumer,East,Paid Ads,2024-11-05
+EC00688,Consumer,East,Paid Ads,2022-09-01
+EC00689,Home Office,West,Paid Ads,2023-05-01
+EC00690,Corporate,South,Paid Ads,2023-03-20
+EC00691,Home Office,North,Organic Search,2022-01-25
+EC00692,Corporate,West,Social Media,2024-05-29
+EC00693,Consumer,West,Referral,2023-04-08
+EC00694,Consumer,South,Social Media,2024-05-30
+EC00695,Consumer,South,Organic Search,2022-07-14
+EC00696,Corporate,West,Email,2024-06-12
+EC00697,Consumer,West,Organic Search,2024-06-03
+EC00698,Corporate,East,Organic Search,2023-10-14
+EC00699,Home Office,West,Organic Search,2022-04-07
+EC00700,Corporate,West,Email,2023-01-21
+EC00701,Corporate,West,Paid Ads,2023-04-22
+EC00702,Home Office,South,Paid Ads,2024-01-19
+EC00703,Consumer,West,Referral,2023-10-27
+EC00704,Home Office,South,Social Media,2023-12-06
+EC00705,Consumer,South,Organic Search,2023-09-30
+EC00706,Corporate,East,Email,2024-04-24
+EC00707,Home Office,South,Social Media,2022-05-24
+EC00708,Consumer,East,Paid Ads,2023-09-23
+EC00709,Consumer,East,Social Media,2023-05-01
+EC00710,Consumer,East,Social Media,2022-02-28
+EC00711,Corporate,North,Social Media,2023-07-09
+EC00712,Home Office,West,Email,2022-01-20
+EC00713,Consumer,South,Email,2024-11-18
+EC00714,Consumer,South,Organic Search,2023-11-22
+EC00715,Corporate,West,Referral,2023-06-09
+EC00716,Corporate,West,Organic Search,2022-01-12
+EC00717,Home Office,North,Email,2022-11-25
+EC00718,Consumer,North,Paid Ads,2024-07-08
+EC00719,Home Office,North,Referral,2023-01-13
+EC00720,Consumer,South,Organic Search,2024-10-07
+EC00721,Consumer,North,Social Media,2024-11-22
+EC00722,Home Office,North,Paid Ads,2022-05-15
+EC00723,Corporate,North,Paid Ads,2023-03-19
+EC00724,Consumer,North,Social Media,2023-03-05
+EC00725,Home Office,East,Organic Search,2023-06-25
+EC00726,Home Office,East,Social Media,2024-11-16
+EC00727,Consumer,West,Organic Search,2024-09-09
+EC00728,Consumer,South,Social Media,2024-03-30
+EC00729,Consumer,West,Paid Ads,2023-02-11
+EC00730,Consumer,West,Email,2023-08-06
+EC00731,Consumer,West,Email,2023-08-10
+EC00732,Consumer,East,Paid Ads,2024-07-04
+EC00733,Home Office,East,Social Media,2024-12-15
+EC00734,Consumer,East,Social Media,2024-04-26
+EC00735,Consumer,West,Organic Search,2022-06-07
+EC00736,Consumer,North,Organic Search,2023-07-02
+EC00737,Consumer,South,Organic Search,2022-01-01
+EC00738,Home Office,South,Paid Ads,2022-04-21
+EC00739,Home Office,West,Organic Search,2022-01-04
+EC00740,Consumer,North,Email,2022-04-23
+EC00741,Consumer,South,Organic Search,2023-03-15
+EC00742,Consumer,West,Organic Search,2022-11-10
+EC00743,Consumer,West,Organic Search,2023-11-23
+EC00744,Corporate,South,Paid Ads,2022-02-12
+EC00745,Consumer,West,Paid Ads,2023-01-17
+EC00746,Consumer,South,Organic Search,2024-10-30
+EC00747,Consumer,East,Email,2022-09-19
+EC00748,Corporate,North,Organic Search,2023-02-17
+EC00749,Consumer,South,Organic Search,2023-03-29
+EC00750,Home Office,West,Social Media,2022-02-03
+EC00751,Consumer,West,Email,2024-01-21
+EC00752,Consumer,West,Referral,2024-12-01
+EC00753,Consumer,West,Paid Ads,2022-10-19
+EC00754,Home Office,North,Referral,2023-12-07
+EC00755,Corporate,East,Social Media,2023-11-30
+EC00756,Consumer,East,Paid Ads,2022-11-27
+EC00757,Corporate,West,Social Media,2023-07-11
+EC00758,Consumer,West,Paid Ads,2022-01-01
+EC00759,Corporate,South,Paid Ads,2023-05-18
+EC00760,Corporate,West,Paid Ads,2023-09-26
+EC00761,Consumer,South,Social Media,2024-08-25
+EC00762,Consumer,North,Organic Search,2023-02-19
+EC00763,Home Office,East,Email,2023-01-15
+EC00764,Consumer,West,Organic Search,2023-08-08
+EC00765,Corporate,North,Social Media,2022-07-29
+EC00766,Home Office,West,Organic Search,2022-09-10
+EC00767,Corporate,West,Paid Ads,2024-12-01
+EC00768,Consumer,West,Paid Ads,2022-10-07
+EC00769,Consumer,West,Email,2023-06-02
+EC00770,Consumer,South,Organic Search,2024-10-26
+EC00771,Consumer,North,Organic Search,2022-03-18
+EC00772,Consumer,West,Organic Search,2024-11-24
+EC00773,Consumer,South,Email,2022-10-19
+EC00774,Corporate,West,Email,2022-03-23
+EC00775,Consumer,South,Social Media,2023-04-07
+EC00776,Corporate,South,Social Media,2023-12-15
+EC00777,Corporate,North,Social Media,2024-03-11
+EC00778,Consumer,South,Paid Ads,2024-08-17
+EC00779,Consumer,North,Organic Search,2022-10-04
+EC00780,Corporate,West,Referral,2023-04-10
+EC00781,Corporate,West,Organic Search,2022-10-08
+EC00782,Consumer,South,Referral,2023-06-30
+EC00783,Corporate,West,Email,2022-10-26
+EC00784,Consumer,North,Referral,2023-10-05
+EC00785,Corporate,West,Referral,2022-04-27
+EC00786,Consumer,South,Organic Search,2024-01-03
+EC00787,Consumer,North,Paid Ads,2024-11-03
+EC00788,Corporate,South,Social Media,2024-07-29
+EC00789,Consumer,East,Social Media,2024-12-21
+EC00790,Consumer,North,Social Media,2025-01-02
+EC00791,Corporate,North,Referral,2023-11-22
+EC00792,Consumer,East,Email,2023-03-11
+EC00793,Consumer,North,Email,2024-11-22
+EC00794,Home Office,West,Social Media,2023-08-26
+EC00795,Home Office,East,Social Media,2024-09-30
+EC00796,Corporate,South,Paid Ads,2022-07-16
+EC00797,Consumer,South,Organic Search,2023-04-22
+EC00798,Home Office,East,Organic Search,2022-08-12
+EC00799,Consumer,West,Email,2024-08-04
+EC00800,Consumer,South,Social Media,2022-04-16
+EC00801,Consumer,West,Organic Search,2024-09-13
+EC00802,Consumer,West,Referral,2022-08-20
+EC00803,Corporate,West,Email,2024-12-01
+EC00804,Consumer,North,Social Media,2022-02-02
+EC00805,Consumer,North,Social Media,2024-09-19
+EC00806,Consumer,West,Paid Ads,2023-01-13
+EC00807,Consumer,West,Email,2022-07-18
+EC00808,Consumer,South,Paid Ads,2023-01-15
+EC00809,Corporate,North,Email,2022-04-01
+EC00810,Consumer,South,Social Media,2023-07-14
+EC00811,Consumer,North,Paid Ads,2024-05-11
+EC00812,Home Office,West,Organic Search,2023-07-31
+EC00813,Consumer,West,Email,2024-05-24
+EC00814,Home Office,South,Paid Ads,2024-06-21
+EC00815,Corporate,West,Organic Search,2024-05-20
+EC00816,Consumer,South,Organic Search,2023-01-25
+EC00817,Consumer,South,Organic Search,2022-02-03
+EC00818,Consumer,North,Social Media,2023-11-21
+EC00819,Consumer,West,Email,2023-08-07
+EC00820,Corporate,South,Social Media,2023-02-20
+EC00821,Consumer,West,Social Media,2024-09-13
+EC00822,Consumer,West,Email,2024-08-27
+EC00823,Consumer,West,Paid Ads,2022-02-03
+EC00824,Consumer,West,Organic Search,2025-01-01
+EC00825,Consumer,West,Email,2024-07-11
+EC00826,Home Office,South,Organic Search,2022-09-08
+EC00827,Corporate,North,Organic Search,2023-11-16
+EC00828,Consumer,West,Paid Ads,2022-12-29
+EC00829,Consumer,North,Referral,2024-01-11
+EC00830,Consumer,East,Organic Search,2023-04-02
+EC00831,Consumer,South,Social Media,2024-01-19
+EC00832,Consumer,West,Email,2023-11-03
+EC00833,Consumer,South,Paid Ads,2024-07-12
+EC00834,Corporate,South,Email,2022-02-14
+EC00835,Corporate,West,Paid Ads,2022-03-17
+EC00836,Corporate,West,Paid Ads,2024-09-30
+EC00837,Home Office,West,Paid Ads,2022-04-14
+EC00838,Consumer,West,Organic Search,2022-05-31
+EC00839,Consumer,South,Paid Ads,2024-10-23
+EC00840,Consumer,North,Social Media,2022-11-22
+EC00841,Corporate,South,Referral,2023-10-26
+EC00842,Consumer,West,Social Media,2024-06-06
+EC00843,Consumer,West,Email,2022-01-16
+EC00844,Consumer,South,Paid Ads,2022-04-26
+EC00845,Consumer,West,Email,2024-10-03
+EC00846,Consumer,East,Referral,2024-07-09
+EC00847,Consumer,North,Paid Ads,2024-09-10
+EC00848,Corporate,East,Paid Ads,2023-03-30
+EC00849,Consumer,South,Social Media,2024-02-18
+EC00850,Consumer,West,Organic Search,2022-09-23
+EC00851,Corporate,North,Referral,2022-05-10
+EC00852,Consumer,West,Organic Search,2022-11-27
+EC00853,Consumer,North,Organic Search,2023-10-16
+EC00854,Consumer,North,Referral,2022-04-12
+EC00855,Consumer,North,Email,2022-04-08
+EC00856,Corporate,North,Email,2023-09-04
+EC00857,Corporate,West,Referral,2024-04-28
+EC00858,Consumer,North,Social Media,2024-02-01
+EC00859,Consumer,South,Email,2024-08-22
+EC00860,Consumer,West,Email,2023-05-30
+EC00861,Consumer,South,Organic Search,2023-02-20
+EC00862,Home Office,East,Organic Search,2024-07-28
+EC00863,Home Office,North,Social Media,2022-07-05
+EC00864,Consumer,North,Paid Ads,2022-06-04
+EC00865,Consumer,West,Paid Ads,2024-06-19
+EC00866,Corporate,South,Email,2024-11-24
+EC00867,Consumer,North,Email,2024-05-11
+EC00868,Consumer,North,Organic Search,2024-09-27
+EC00869,Corporate,East,Email,2022-09-09
+EC00870,Home Office,West,Social Media,2022-01-07
+EC00871,Consumer,South,Email,2023-12-13
+EC00872,Corporate,East,Social Media,2022-08-04
+EC00873,Consumer,East,Email,2022-02-03
+EC00874,Corporate,North,Social Media,2022-12-25
+EC00875,Home Office,South,Organic Search,2022-06-23
+EC00876,Corporate,West,Email,2024-01-30
+EC00877,Consumer,West,Organic Search,2024-04-24
+EC00878,Consumer,West,Paid Ads,2023-11-29
+EC00879,Consumer,South,Organic Search,2022-02-19
+EC00880,Home Office,North,Organic Search,2022-06-03
+EC00881,Consumer,South,Organic Search,2024-05-05
+EC00882,Corporate,North,Organic Search,2022-09-21
+EC00883,Home Office,West,Organic Search,2022-02-18
+EC00884,Corporate,North,Paid Ads,2022-11-13
+EC00885,Corporate,West,Email,2024-06-25
+EC00886,Consumer,East,Referral,2024-08-14
+EC00887,Consumer,South,Paid Ads,2023-12-12
+EC00888,Consumer,South,Referral,2022-12-22
+EC00889,Home Office,East,Paid Ads,2023-05-26
+EC00890,Corporate,East,Organic Search,2024-03-07
+EC00891,Consumer,South,Paid Ads,2022-08-18
+EC00892,Consumer,North,Referral,2024-11-05
+EC00893,Corporate,West,Referral,2024-10-04
+EC00894,Consumer,East,Paid Ads,2022-09-23
+EC00895,Corporate,East,Paid Ads,2024-09-15
+EC00896,Consumer,North,Social Media,2022-11-24
+EC00897,Corporate,West,Paid Ads,2024-05-10
+EC00898,Consumer,West,Social Media,2024-01-14
+EC00899,Consumer,South,Paid Ads,2024-08-12
+EC00900,Corporate,East,Paid Ads,2023-12-23
+EC00901,Consumer,West,Paid Ads,2024-08-03
+EC00902,Consumer,South,Social Media,2023-03-05
+EC00903,Home Office,East,Organic Search,2024-01-19
+EC00904,Corporate,South,Social Media,2022-08-26
+EC00905,Corporate,East,Organic Search,2023-12-04
+EC00906,Consumer,East,Social Media,2022-07-11
+EC00907,Home Office,North,Organic Search,2024-08-05
+EC00908,Corporate,North,Referral,2022-07-22
+EC00909,Corporate,East,Organic Search,2024-05-25
+EC00910,Home Office,South,Organic Search,2024-04-14
+EC00911,Consumer,North,Organic Search,2022-10-11
+EC00912,Consumer,South,Social Media,2023-10-03
+EC00913,Consumer,South,Paid Ads,2024-10-17
+EC00914,Consumer,West,Paid Ads,2024-12-11
+EC00915,Corporate,East,Referral,2024-05-27
+EC00916,Corporate,South,Organic Search,2023-06-26
+EC00917,Consumer,North,Social Media,2023-08-01
+EC00918,Consumer,South,Paid Ads,2022-04-03
+EC00919,Corporate,North,Organic Search,2022-05-29
+EC00920,Consumer,West,Organic Search,2023-01-29
+EC00921,Corporate,South,Paid Ads,2023-06-09
+EC00922,Home Office,West,Organic Search,2024-06-16
+EC00923,Consumer,North,Email,2022-11-06
+EC00924,Consumer,West,Paid Ads,2024-12-20
+EC00925,Consumer,East,Paid Ads,2022-01-03
+EC00926,Consumer,North,Organic Search,2023-12-05
+EC00927,Consumer,South,Email,2024-11-01
+EC00928,Consumer,North,Organic Search,2022-09-17
+EC00929,Consumer,East,Organic Search,2023-04-25
+EC00930,Corporate,West,Email,2024-09-07
+EC00931,Consumer,East,Organic Search,2024-07-03
+EC00932,Corporate,West,Social Media,2024-06-27
+EC00933,Consumer,North,Social Media,2022-01-26
+EC00934,Corporate,East,Paid Ads,2024-02-02
+EC00935,Home Office,East,Paid Ads,2024-06-01
+EC00936,Home Office,West,Organic Search,2022-03-08
+EC00937,Corporate,East,Paid Ads,2022-02-21
+EC00938,Consumer,West,Paid Ads,2022-05-29
+EC00939,Home Office,North,Organic Search,2023-05-03
+EC00940,Corporate,South,Email,2023-06-09
+EC00941,Consumer,North,Social Media,2024-12-05
+EC00942,Consumer,East,Organic Search,2022-10-29
+EC00943,Consumer,South,Paid Ads,2023-09-16
+EC00944,Corporate,South,Email,2023-12-22
+EC00945,Consumer,West,Email,2022-11-27
+EC00946,Corporate,North,Organic Search,2024-03-27
+EC00947,Consumer,East,Organic Search,2023-03-21
+EC00948,Corporate,West,Social Media,2022-11-08
+EC00949,Home Office,South,Organic Search,2022-07-01
+EC00950,Corporate,South,Email,2022-07-27
+EC00951,Consumer,North,Paid Ads,2023-07-15
+EC00952,Consumer,South,Organic Search,2024-12-21
+EC00953,Consumer,West,Paid Ads,2024-08-19
+EC00954,Consumer,South,Email,2024-06-10
+EC00955,Consumer,West,Paid Ads,2023-05-28
+EC00956,Consumer,East,Organic Search,2023-09-26
+EC00957,Home Office,North,Social Media,2022-10-17
+EC00958,Corporate,North,Paid Ads,2022-10-22
+EC00959,Home Office,South,Organic Search,2023-01-27
+EC00960,Consumer,North,Organic Search,2024-10-14
+EC00961,Consumer,West,Email,2023-11-23
+EC00962,Consumer,East,Paid Ads,2023-05-11
+EC00963,Consumer,East,Organic Search,2022-09-24
+EC00964,Consumer,South,Email,2024-06-11
+EC00965,Consumer,West,Organic Search,2023-06-23
+EC00966,Consumer,East,Paid Ads,2024-11-18
+EC00967,Corporate,South,Paid Ads,2024-06-27
+EC00968,Corporate,South,Organic Search,2024-10-09
+EC00969,Consumer,South,Social Media,2022-05-20
+EC00970,Consumer,East,Paid Ads,2024-01-31
+EC00971,Home Office,East,Organic Search,2024-04-22
+EC00972,Consumer,North,Referral,2022-08-20
+EC00973,Consumer,North,Referral,2022-01-03
+EC00974,Consumer,South,Organic Search,2023-12-30
+EC00975,Consumer,South,Paid Ads,2024-07-01
+EC00976,Consumer,South,Social Media,2022-08-17
+EC00977,Home Office,North,Email,2022-08-19
+EC00978,Consumer,South,Organic Search,2023-04-15
+EC00979,Consumer,North,Email,2022-12-29
+EC00980,Consumer,North,Email,2022-10-16
+EC00981,Home Office,East,Social Media,2024-02-27
+EC00982,Corporate,West,Referral,2024-03-16
+EC00983,Consumer,West,Email,2022-07-22
+EC00984,Consumer,South,Referral,2022-12-06
+EC00985,Home Office,West,Organic Search,2022-10-17
+EC00986,Corporate,East,Paid Ads,2023-05-09
+EC00987,Consumer,West,Referral,2024-08-02
+EC00988,Consumer,North,Paid Ads,2023-04-24
+EC00989,Corporate,South,Organic Search,2022-11-04
+EC00990,Home Office,West,Organic Search,2023-03-24
+EC00991,Consumer,North,Paid Ads,2024-06-15
+EC00992,Consumer,South,Paid Ads,2022-08-30
+EC00993,Consumer,South,Organic Search,2022-12-30
+EC00994,Consumer,South,Organic Search,2023-02-01
+EC00995,Corporate,South,Referral,2024-06-10
+EC00996,Consumer,West,Organic Search,2022-07-26
+EC00997,Corporate,West,Email,2022-05-19
+EC00998,Home Office,South,Paid Ads,2024-06-19
+EC00999,Consumer,North,Email,2023-04-08
+EC01000,Consumer,North,Organic Search,2022-11-04
+EC01001,Consumer,West,Organic Search,2024-09-20
+EC01002,Consumer,West,Paid Ads,2022-06-21
+EC01003,Home Office,South,Referral,2022-01-28
+EC01004,Corporate,West,Social Media,2024-06-22
+EC01005,Consumer,West,Social Media,2022-03-10
+EC01006,Consumer,West,Organic Search,2022-09-15
+EC01007,Home Office,West,Paid Ads,2024-09-28
+EC01008,Consumer,East,Social Media,2024-10-11
+EC01009,Home Office,West,Social Media,2024-02-21
+EC01010,Consumer,West,Paid Ads,2022-02-01
+EC01011,Consumer,East,Paid Ads,2022-05-12
+EC01012,Consumer,South,Organic Search,2024-05-09
+EC01013,Corporate,East,Social Media,2024-01-24
+EC01014,Corporate,East,Organic Search,2024-08-06
+EC01015,Consumer,West,Paid Ads,2023-07-27
+EC01016,Consumer,South,Social Media,2024-12-19
+EC01017,Corporate,East,Email,2022-12-18
+EC01018,Consumer,North,Organic Search,2024-11-28
+EC01019,Consumer,South,Referral,2023-02-23
+EC01020,Consumer,North,Paid Ads,2023-07-06
+EC01021,Corporate,West,Email,2023-08-29
+EC01022,Home Office,North,Organic Search,2024-06-12
+EC01023,Corporate,South,Organic Search,2024-02-07
+EC01024,Consumer,North,Email,2024-04-17
+EC01025,Consumer,East,Paid Ads,2022-12-27
+EC01026,Consumer,North,Email,2024-01-22
+EC01027,Consumer,North,Social Media,2022-02-17
+EC01028,Consumer,West,Email,2024-06-29
+EC01029,Home Office,East,Organic Search,2024-07-15
+EC01030,Corporate,East,Paid Ads,2022-08-29
+EC01031,Corporate,South,Organic Search,2023-10-08
+EC01032,Consumer,South,Referral,2023-06-16
+EC01033,Consumer,East,Paid Ads,2023-11-22
+EC01034,Home Office,East,Email,2023-11-13
+EC01035,Consumer,South,Paid Ads,2023-04-21
+EC01036,Consumer,West,Social Media,2023-02-12
+EC01037,Home Office,South,Paid Ads,2022-01-28
+EC01038,Corporate,South,Organic Search,2023-08-21
+EC01039,Consumer,North,Referral,2023-06-21
+EC01040,Consumer,East,Referral,2022-01-29
+EC01041,Consumer,North,Paid Ads,2023-12-31
+EC01042,Corporate,West,Organic Search,2023-03-11
+EC01043,Home Office,South,Email,2024-03-31
+EC01044,Corporate,West,Organic Search,2022-10-13
+EC01045,Home Office,East,Paid Ads,2024-10-24
+EC01046,Consumer,West,Social Media,2024-12-11
+EC01047,Consumer,West,Email,2022-07-01
+EC01048,Consumer,West,Social Media,2022-10-09
+EC01049,Consumer,South,Organic Search,2023-01-20
+EC01050,Home Office,South,Organic Search,2023-01-03
+EC01051,Consumer,East,Organic Search,2024-10-17
+EC01052,Consumer,West,Organic Search,2022-09-30
+EC01053,Home Office,North,Referral,2023-01-24
+EC01054,Corporate,West,Organic Search,2024-06-29
+EC01055,Corporate,North,Social Media,2024-08-16
+EC01056,Home Office,South,Email,2024-08-08
+EC01057,Consumer,West,Paid Ads,2024-03-30
+EC01058,Consumer,West,Organic Search,2023-06-11
+EC01059,Corporate,South,Referral,2022-05-05
+EC01060,Consumer,South,Social Media,2022-01-31
+EC01061,Consumer,East,Email,2023-12-05
+EC01062,Consumer,South,Email,2023-12-31
+EC01063,Consumer,North,Organic Search,2022-04-08
+EC01064,Consumer,South,Organic Search,2023-02-13
+EC01065,Consumer,North,Paid Ads,2024-02-23
+EC01066,Home Office,South,Referral,2024-11-26
+EC01067,Corporate,South,Referral,2023-03-31
+EC01068,Consumer,North,Paid Ads,2023-07-02
+EC01069,Consumer,South,Paid Ads,2023-04-22
+EC01070,Corporate,East,Paid Ads,2025-01-03
+EC01071,Corporate,West,Social Media,2022-01-21
+EC01072,Home Office,West,Email,2022-07-11
+EC01073,Consumer,West,Paid Ads,2023-03-10
+EC01074,Corporate,North,Organic Search,2024-09-25
+EC01075,Home Office,West,Referral,2023-07-16
+EC01076,Consumer,South,Organic Search,2024-02-27
+EC01077,Consumer,West,Email,2023-01-01
+EC01078,Consumer,East,Paid Ads,2022-09-25
+EC01079,Consumer,South,Organic Search,2024-08-11
+EC01080,Consumer,North,Email,2023-12-05
+EC01081,Corporate,North,Referral,2024-09-17
+EC01082,Consumer,West,Social Media,2024-09-25
+EC01083,Home Office,North,Organic Search,2022-03-15
+EC01084,Consumer,North,Organic Search,2022-12-08
+EC01085,Consumer,South,Organic Search,2022-09-06
+EC01086,Consumer,North,Paid Ads,2024-09-05
+EC01087,Home Office,South,Organic Search,2022-01-20
+EC01088,Home Office,South,Organic Search,2024-02-02
+EC01089,Home Office,West,Paid Ads,2023-11-15
+EC01090,Consumer,East,Organic Search,2024-09-27
+EC01091,Consumer,West,Organic Search,2023-10-21
+EC01092,Consumer,East,Organic Search,2022-01-01
+EC01093,Consumer,East,Organic Search,2022-05-16
+EC01094,Corporate,East,Organic Search,2023-09-05
+EC01095,Home Office,South,Social Media,2024-02-23
+EC01096,Home Office,North,Paid Ads,2024-04-11
+EC01097,Corporate,North,Social Media,2023-09-21
+EC01098,Consumer,West,Email,2024-08-04
+EC01099,Consumer,South,Organic Search,2022-05-21
+EC01100,Consumer,West,Social Media,2022-01-21
+EC01101,Consumer,North,Paid Ads,2024-10-04
+EC01102,Consumer,East,Paid Ads,2022-07-01
+EC01103,Home Office,West,Paid Ads,2022-01-06
+EC01104,Consumer,South,Organic Search,2023-08-25
+EC01105,Consumer,South,Organic Search,2022-01-13
+EC01106,Consumer,North,Email,2023-04-12
+EC01107,Consumer,East,Referral,2022-01-01
+EC01108,Corporate,North,Organic Search,2024-12-30
+EC01109,Home Office,East,Email,2022-10-03
+EC01110,Consumer,East,Organic Search,2022-12-24
+EC01111,Consumer,West,Paid Ads,2022-12-12
+EC01112,Corporate,South,Referral,2024-08-04
+EC01113,Corporate,East,Referral,2024-07-16
+EC01114,Consumer,West,Social Media,2022-08-22
+EC01115,Corporate,North,Paid Ads,2023-06-08
+EC01116,Consumer,West,Paid Ads,2024-11-02
+EC01117,Consumer,West,Paid Ads,2023-06-06
+EC01118,Corporate,South,Email,2024-06-21
+EC01119,Consumer,North,Social Media,2022-03-13
+EC01120,Corporate,South,Paid Ads,2023-12-13
+EC01121,Consumer,North,Organic Search,2022-10-01
+EC01122,Consumer,West,Organic Search,2024-02-23
+EC01123,Consumer,North,Paid Ads,2024-07-23
+EC01124,Consumer,North,Paid Ads,2023-05-13
+EC01125,Consumer,North,Referral,2022-06-20
+EC01126,Corporate,East,Organic Search,2022-05-18
+EC01127,Consumer,West,Organic Search,2023-09-30
+EC01128,Consumer,South,Social Media,2022-05-15
+EC01129,Home Office,South,Paid Ads,2024-12-31
+EC01130,Consumer,South,Paid Ads,2023-12-23
+EC01131,Corporate,West,Referral,2023-03-26
+EC01132,Corporate,West,Organic Search,2024-05-08
+EC01133,Consumer,South,Social Media,2022-03-11
+EC01134,Consumer,North,Organic Search,2023-08-27
+EC01135,Corporate,West,Social Media,2024-09-01
+EC01136,Consumer,South,Organic Search,2023-10-27
+EC01137,Consumer,East,Email,2023-12-12
+EC01138,Consumer,West,Email,2022-08-14
+EC01139,Consumer,East,Organic Search,2022-10-31
+EC01140,Corporate,North,Email,2024-06-24
+EC01141,Home Office,South,Email,2022-08-06
+EC01142,Consumer,West,Social Media,2024-05-06
+EC01143,Corporate,South,Email,2024-08-20
+EC01144,Consumer,North,Email,2022-11-29
+EC01145,Consumer,South,Email,2024-10-04
+EC01146,Consumer,South,Social Media,2023-03-01
+EC01147,Consumer,West,Referral,2022-08-31
+EC01148,Consumer,South,Email,2024-01-30
+EC01149,Consumer,North,Paid Ads,2023-09-19
+EC01150,Home Office,South,Paid Ads,2024-12-09
+EC01151,Consumer,West,Email,2023-10-07
+EC01152,Corporate,West,Organic Search,2024-01-30
+EC01153,Home Office,West,Organic Search,2022-08-24
+EC01154,Corporate,West,Organic Search,2024-07-25
+EC01155,Home Office,South,Paid Ads,2022-01-31
+EC01156,Corporate,North,Paid Ads,2023-11-19
+EC01157,Consumer,North,Email,2024-01-28
+EC01158,Home Office,South,Referral,2024-11-21
+EC01159,Consumer,North,Paid Ads,2023-03-17
+EC01160,Home Office,West,Social Media,2022-04-28
+EC01161,Consumer,East,Organic Search,2023-06-29
+EC01162,Corporate,North,Social Media,2022-08-27
+EC01163,Consumer,North,Referral,2024-12-12
+EC01164,Consumer,South,Organic Search,2023-02-17
+EC01165,Corporate,South,Paid Ads,2023-09-24
+EC01166,Consumer,West,Paid Ads,2022-07-31
+EC01167,Corporate,West,Paid Ads,2022-09-29
+EC01168,Consumer,West,Organic Search,2022-05-24
+EC01169,Consumer,West,Referral,2024-11-29
+EC01170,Consumer,West,Social Media,2022-03-07
+EC01171,Corporate,East,Organic Search,2022-06-09
+EC01172,Corporate,South,Social Media,2023-10-02
+EC01173,Corporate,North,Social Media,2022-08-10
+EC01174,Home Office,North,Referral,2022-08-05
+EC01175,Corporate,South,Organic Search,2022-11-02
+EC01176,Consumer,South,Organic Search,2025-01-04
+EC01177,Corporate,West,Social Media,2024-01-22
+EC01178,Corporate,North,Paid Ads,2023-10-03
+EC01179,Consumer,South,Organic Search,2023-09-17
+EC01180,Corporate,South,Organic Search,2022-05-10
+EC01181,Corporate,East,Paid Ads,2024-10-27
+EC01182,Consumer,North,Organic Search,2023-10-06
+EC01183,Consumer,South,Social Media,2024-06-04
+EC01184,Consumer,South,Email,2024-05-02
+EC01185,Corporate,West,Paid Ads,2022-09-15
+EC01186,Home Office,North,Email,2022-06-01
+EC01187,Consumer,East,Email,2024-08-18
+EC01188,Consumer,South,Email,2024-09-26
+EC01189,Corporate,North,Email,2022-10-26
+EC01190,Corporate,South,Referral,2024-02-02
+EC01191,Consumer,West,Organic Search,2022-12-03
+EC01192,Corporate,South,Organic Search,2024-08-29
+EC01193,Home Office,South,Referral,2023-02-19
+EC01194,Consumer,East,Organic Search,2023-01-17
+EC01195,Consumer,West,Email,2023-02-05
+EC01196,Consumer,South,Social Media,2024-04-25
+EC01197,Consumer,South,Organic Search,2024-11-16
+EC01198,Consumer,East,Referral,2024-08-16
+EC01199,Consumer,West,Paid Ads,2023-01-11
+EC01200,Consumer,South,Referral,2022-02-20
+EC01201,Consumer,South,Paid Ads,2022-07-25
+EC01202,Corporate,North,Paid Ads,2022-12-04
+EC01203,Corporate,West,Social Media,2023-08-01
+EC01204,Corporate,East,Email,2023-05-09
+EC01205,Consumer,East,Organic Search,2024-01-23
+EC01206,Consumer,North,Referral,2022-01-24
+EC01207,Consumer,East,Organic Search,2022-12-18
+EC01208,Consumer,North,Organic Search,2022-06-06
+EC01209,Consumer,East,Organic Search,2022-04-06
+EC01210,Consumer,East,Referral,2024-05-04
+EC01211,Corporate,South,Paid Ads,2024-05-13
+EC01212,Consumer,West,Email,2022-08-09
+EC01213,Consumer,South,Social Media,2024-12-29
+EC01214,Home Office,North,Referral,2024-07-16
+EC01215,Consumer,South,Paid Ads,2023-11-14
+EC01216,Corporate,North,Organic Search,2023-02-01
+EC01217,Consumer,West,Organic Search,2024-11-24
+EC01218,Consumer,North,Paid Ads,2022-07-30
+EC01219,Consumer,South,Paid Ads,2022-11-22
+EC01220,Consumer,South,Social Media,2023-08-27
+EC01221,Corporate,North,Referral,2022-11-29
+EC01222,Consumer,West,Paid Ads,2024-05-27
+EC01223,Consumer,South,Paid Ads,2023-02-08
+EC01224,Consumer,South,Social Media,2022-12-31
+EC01225,Consumer,West,Social Media,2023-10-01
+EC01226,Consumer,West,Organic Search,2022-09-08
+EC01227,Corporate,East,Referral,2022-09-01
+EC01228,Corporate,West,Referral,2022-09-11
+EC01229,Corporate,North,Organic Search,2023-06-23
+EC01230,Corporate,South,Organic Search,2022-03-27
+EC01231,Corporate,North,Email,2024-03-05
+EC01232,Consumer,West,Social Media,2024-12-12
+EC01233,Consumer,South,Social Media,2024-09-03
+EC01234,Corporate,West,Organic Search,2023-07-26
+EC01235,Home Office,North,Social Media,2023-01-03
+EC01236,Corporate,North,Email,2024-02-06
+EC01237,Home Office,North,Email,2022-11-07
+EC01238,Corporate,North,Paid Ads,2023-10-16
+EC01239,Consumer,North,Paid Ads,2023-04-10
+EC01240,Corporate,West,Social Media,2022-02-18
+EC01241,Home Office,South,Paid Ads,2023-11-14
+EC01242,Consumer,East,Organic Search,2023-02-21
+EC01243,Consumer,South,Email,2022-09-09
+EC01244,Corporate,South,Social Media,2024-03-11
+EC01245,Home Office,South,Social Media,2023-10-29
+EC01246,Corporate,South,Organic Search,2023-12-19
+EC01247,Home Office,West,Referral,2023-06-27
+EC01248,Corporate,West,Paid Ads,2024-03-21
+EC01249,Consumer,South,Organic Search,2023-01-03
+EC01250,Consumer,South,Organic Search,2022-11-09
+EC01251,Consumer,North,Paid Ads,2024-06-16
+EC01252,Consumer,West,Social Media,2023-07-04
+EC01253,Consumer,East,Paid Ads,2023-01-24
+EC01254,Consumer,West,Email,2022-08-26
+EC01255,Consumer,West,Organic Search,2024-12-16
+EC01256,Corporate,South,Email,2023-11-29
+EC01257,Consumer,West,Organic Search,2023-09-08
+EC01258,Consumer,North,Paid Ads,2023-06-26
+EC01259,Consumer,North,Organic Search,2023-12-19
+EC01260,Consumer,West,Organic Search,2023-12-09
+EC01261,Consumer,North,Social Media,2023-12-28
+EC01262,Consumer,East,Organic Search,2024-01-24
+EC01263,Corporate,West,Social Media,2022-10-21
+EC01264,Corporate,West,Email,2022-04-11
+EC01265,Consumer,North,Organic Search,2023-03-06
+EC01266,Consumer,South,Email,2023-01-08
+EC01267,Corporate,East,Email,2024-01-20
+EC01268,Consumer,West,Email,2023-12-27
+EC01269,Home Office,North,Organic Search,2022-11-23
+EC01270,Consumer,South,Organic Search,2024-06-23
+EC01271,Home Office,West,Organic Search,2023-07-06
+EC01272,Corporate,South,Social Media,2023-11-09
+EC01273,Home Office,South,Referral,2023-09-20
+EC01274,Consumer,West,Paid Ads,2025-01-02
+EC01275,Consumer,West,Organic Search,2023-10-11
+EC01276,Consumer,North,Social Media,2024-10-27
+EC01277,Home Office,North,Email,2024-03-18
+EC01278,Home Office,West,Organic Search,2023-05-09
+EC01279,Consumer,West,Paid Ads,2022-06-25
+EC01280,Consumer,South,Social Media,2022-12-09
+EC01281,Corporate,North,Paid Ads,2022-10-06
+EC01282,Home Office,South,Referral,2024-08-09
+EC01283,Consumer,South,Social Media,2023-08-11
+EC01284,Consumer,South,Organic Search,2023-12-05
+EC01285,Consumer,South,Organic Search,2024-02-12
+EC01286,Consumer,South,Organic Search,2022-02-22
+EC01287,Home Office,South,Email,2023-05-09
+EC01288,Consumer,South,Paid Ads,2022-01-05
+EC01289,Home Office,North,Organic Search,2022-08-14
+EC01290,Consumer,South,Social Media,2024-11-12
+EC01291,Home Office,South,Paid Ads,2024-12-08
+EC01292,Consumer,East,Email,2023-09-04
+EC01293,Consumer,South,Email,2022-09-02
+EC01294,Corporate,North,Paid Ads,2025-01-01
+EC01295,Consumer,South,Social Media,2023-09-20
+EC01296,Consumer,South,Paid Ads,2023-02-28
+EC01297,Consumer,South,Organic Search,2023-06-29
+EC01298,Corporate,South,Organic Search,2023-03-10
+EC01299,Home Office,South,Paid Ads,2022-09-10
+EC01300,Consumer,South,Organic Search,2023-08-16
+EC01301,Consumer,West,Organic Search,2023-07-18
+EC01302,Corporate,South,Email,2022-09-18
+EC01303,Consumer,West,Organic Search,2023-11-12
+EC01304,Consumer,East,Organic Search,2024-08-06
+EC01305,Corporate,South,Referral,2022-06-07
+EC01306,Consumer,South,Organic Search,2022-07-05
+EC01307,Consumer,North,Organic Search,2022-10-08
+EC01308,Consumer,West,Social Media,2024-05-14
+EC01309,Corporate,South,Organic Search,2023-10-29
+EC01310,Consumer,West,Referral,2023-09-28
+EC01311,Consumer,West,Organic Search,2022-08-31
+EC01312,Consumer,South,Organic Search,2023-11-13
+EC01313,Consumer,North,Paid Ads,2022-09-14
+EC01314,Corporate,West,Email,2023-09-22
+EC01315,Consumer,North,Social Media,2023-09-09
+EC01316,Consumer,West,Organic Search,2023-06-23
+EC01317,Corporate,West,Paid Ads,2023-12-03
+EC01318,Consumer,South,Paid Ads,2024-11-01
+EC01319,Consumer,West,Paid Ads,2024-05-12
+EC01320,Consumer,South,Paid Ads,2024-07-19
+EC01321,Corporate,West,Paid Ads,2024-10-29
+EC01322,Consumer,West,Email,2024-01-21
+EC01323,Consumer,West,Organic Search,2024-12-09
+EC01324,Consumer,East,Social Media,2024-02-14
+EC01325,Consumer,West,Referral,2023-10-08
+EC01326,Consumer,South,Organic Search,2023-10-22
+EC01327,Consumer,West,Referral,2023-03-28
+EC01328,Corporate,South,Organic Search,2024-12-27
+EC01329,Consumer,South,Social Media,2024-07-25
+EC01330,Consumer,East,Email,2024-02-23
+EC01331,Consumer,South,Paid Ads,2022-06-19
+EC01332,Corporate,West,Referral,2023-08-14
+EC01333,Corporate,South,Paid Ads,2023-04-07
+EC01334,Home Office,West,Organic Search,2023-10-13
+EC01335,Consumer,South,Email,2023-05-04
+EC01336,Consumer,North,Organic Search,2024-11-14
+EC01337,Consumer,West,Organic Search,2022-01-05
+EC01338,Consumer,West,Organic Search,2022-04-03
+EC01339,Consumer,West,Social Media,2024-01-17
+EC01340,Consumer,East,Social Media,2022-05-08
+EC01341,Consumer,West,Referral,2024-02-05
+EC01342,Consumer,South,Organic Search,2024-10-29
+EC01343,Consumer,West,Paid Ads,2023-06-25
+EC01344,Consumer,East,Paid Ads,2022-09-14
+EC01345,Consumer,South,Paid Ads,2024-12-06
+EC01346,Consumer,West,Email,2024-05-21
+EC01347,Consumer,North,Email,2022-08-20
+EC01348,Consumer,West,Social Media,2023-05-23
+EC01349,Home Office,North,Social Media,2022-06-13
+EC01350,Corporate,South,Email,2022-09-22
+EC01351,Corporate,West,Organic Search,2024-10-06
+EC01352,Corporate,North,Referral,2024-06-19
+EC01353,Consumer,South,Organic Search,2023-10-09
+EC01354,Consumer,South,Organic Search,2024-01-20
+EC01355,Consumer,West,Email,2023-02-24
+EC01356,Consumer,West,Organic Search,2023-04-01
+EC01357,Corporate,North,Email,2023-10-28
+EC01358,Consumer,East,Organic Search,2023-02-17
+EC01359,Consumer,East,Paid Ads,2023-10-06
+EC01360,Consumer,South,Paid Ads,2022-09-22
+EC01361,Consumer,East,Paid Ads,2022-12-29
+EC01362,Consumer,West,Paid Ads,2022-06-18
+EC01363,Home Office,North,Social Media,2022-05-10
+EC01364,Consumer,West,Organic Search,2022-08-06
+EC01365,Home Office,South,Social Media,2024-10-08
+EC01366,Consumer,East,Paid Ads,2024-12-24
+EC01367,Consumer,North,Email,2022-10-05
+EC01368,Consumer,West,Social Media,2024-03-22
+EC01369,Corporate,East,Email,2023-11-08
+EC01370,Consumer,East,Paid Ads,2023-07-08
+EC01371,Corporate,East,Social Media,2024-12-13
+EC01372,Consumer,East,Organic Search,2023-09-25
+EC01373,Corporate,West,Email,2022-10-22
+EC01374,Consumer,North,Paid Ads,2022-05-19
+EC01375,Consumer,East,Referral,2022-07-27
+EC01376,Home Office,North,Paid Ads,2024-12-10
+EC01377,Consumer,East,Organic Search,2024-03-06
+EC01378,Home Office,North,Paid Ads,2023-01-22
+EC01379,Consumer,East,Paid Ads,2022-12-30
+EC01380,Consumer,South,Paid Ads,2022-09-18
+EC01381,Consumer,North,Social Media,2022-07-30
+EC01382,Home Office,West,Organic Search,2023-08-15
+EC01383,Consumer,West,Referral,2022-11-25
+EC01384,Consumer,East,Organic Search,2023-04-13
+EC01385,Consumer,South,Social Media,2023-02-13
+EC01386,Consumer,East,Social Media,2023-09-20
+EC01387,Corporate,South,Paid Ads,2023-06-19
+EC01388,Consumer,West,Referral,2023-12-17
+EC01389,Consumer,West,Email,2023-05-21
+EC01390,Consumer,East,Paid Ads,2022-12-22
+EC01391,Home Office,South,Paid Ads,2024-07-31
+EC01392,Consumer,North,Email,2023-07-07
+EC01393,Consumer,North,Referral,2022-07-12
+EC01394,Consumer,West,Social Media,2023-06-18
+EC01395,Corporate,East,Social Media,2022-04-22
+EC01396,Consumer,East,Social Media,2022-01-25
+EC01397,Corporate,West,Organic Search,2024-09-16
+EC01398,Corporate,West,Organic Search,2024-05-12
+EC01399,Home Office,North,Paid Ads,2024-02-20
+EC01400,Consumer,North,Organic Search,2024-07-04
+EC01401,Home Office,South,Social Media,2022-03-06
+EC01402,Consumer,South,Paid Ads,2022-04-14
+EC01403,Consumer,North,Email,2023-10-30
+EC01404,Corporate,North,Email,2024-03-06
+EC01405,Consumer,North,Referral,2024-07-28
+EC01406,Corporate,South,Paid Ads,2024-06-11
+EC01407,Home Office,East,Organic Search,2022-05-18
+EC01408,Home Office,East,Paid Ads,2023-05-30
+EC01409,Corporate,East,Referral,2023-09-27
+EC01410,Consumer,South,Organic Search,2023-08-18
+EC01411,Consumer,North,Organic Search,2023-12-01
+EC01412,Consumer,West,Email,2023-09-29
+EC01413,Consumer,South,Email,2024-03-09
+EC01414,Consumer,South,Organic Search,2025-01-04
+EC01415,Consumer,South,Email,2022-06-08
+EC01416,Consumer,East,Email,2023-04-18
+EC01417,Consumer,North,Email,2024-05-27
+EC01418,Consumer,North,Organic Search,2022-02-27
+EC01419,Consumer,South,Organic Search,2024-04-05
+EC01420,Consumer,North,Social Media,2023-10-22
+EC01421,Corporate,South,Social Media,2022-07-10
+EC01422,Home Office,North,Referral,2023-11-24
+EC01423,Corporate,West,Social Media,2022-06-02
+EC01424,Corporate,West,Social Media,2024-01-08
+EC01425,Consumer,West,Email,2022-12-22
+EC01426,Consumer,West,Paid Ads,2022-03-02
+EC01427,Corporate,West,Paid Ads,2022-05-27
+EC01428,Consumer,West,Organic Search,2023-06-20
+EC01429,Consumer,West,Email,2022-09-20
+EC01430,Home Office,West,Social Media,2023-04-24
+EC01431,Consumer,West,Organic Search,2024-12-01
+EC01432,Consumer,West,Paid Ads,2024-10-21
+EC01433,Consumer,South,Email,2023-12-25
+EC01434,Home Office,West,Organic Search,2022-03-07
+EC01435,Home Office,South,Social Media,2023-10-18
+EC01436,Consumer,South,Organic Search,2023-05-03
+EC01437,Consumer,North,Social Media,2024-02-29
+EC01438,Consumer,South,Organic Search,2022-08-20
+EC01439,Consumer,North,Social Media,2024-05-16
+EC01440,Home Office,East,Paid Ads,2024-08-24
+EC01441,Consumer,East,Social Media,2022-02-11
+EC01442,Corporate,East,Email,2023-10-31
+EC01443,Consumer,West,Paid Ads,2024-08-05
+EC01444,Consumer,West,Social Media,2023-07-31
+EC01445,Consumer,West,Organic Search,2024-08-19
+EC01446,Consumer,West,Social Media,2024-07-16
+EC01447,Home Office,East,Paid Ads,2023-03-12
+EC01448,Consumer,East,Paid Ads,2022-05-13
+EC01449,Corporate,North,Social Media,2023-07-08
+EC01450,Corporate,East,Paid Ads,2022-11-09
+EC01451,Corporate,West,Email,2022-10-12
+EC01452,Consumer,East,Social Media,2024-10-31
+EC01453,Consumer,West,Organic Search,2023-02-11
+EC01454,Consumer,North,Social Media,2023-08-04
+EC01455,Consumer,West,Social Media,2022-01-15
+EC01456,Corporate,East,Social Media,2024-07-06
+EC01457,Home Office,North,Social Media,2023-10-15
+EC01458,Corporate,South,Organic Search,2023-01-25
+EC01459,Consumer,South,Organic Search,2022-03-28
+EC01460,Consumer,South,Social Media,2024-01-30
+EC01461,Corporate,South,Organic Search,2022-07-12
+EC01462,Consumer,South,Email,2024-02-28
+EC01463,Home Office,West,Organic Search,2023-08-26
+EC01464,Consumer,North,Email,2023-07-26
+EC01465,Consumer,West,Organic Search,2022-02-19
+EC01466,Corporate,East,Organic Search,2023-01-20
+EC01467,Corporate,South,Organic Search,2024-11-06
+EC01468,Consumer,East,Social Media,2024-05-23
+EC01469,Corporate,South,Organic Search,2024-07-22
+EC01470,Consumer,South,Organic Search,2024-10-24
+EC01471,Consumer,West,Social Media,2022-12-02
+EC01472,Corporate,North,Paid Ads,2024-01-01
+EC01473,Consumer,South,Email,2024-12-24
+EC01474,Corporate,West,Social Media,2022-04-11
+EC01475,Consumer,West,Organic Search,2023-03-13
+EC01476,Consumer,South,Organic Search,2022-08-20
+EC01477,Consumer,North,Referral,2022-02-09
+EC01478,Consumer,South,Paid Ads,2022-07-18
+EC01479,Consumer,West,Social Media,2023-07-16
+EC01480,Consumer,West,Paid Ads,2022-09-17
+EC01481,Corporate,South,Email,2023-09-13
+EC01482,Consumer,West,Organic Search,2024-04-26
+EC01483,Home Office,West,Organic Search,2025-01-02
+EC01484,Consumer,West,Organic Search,2022-10-24
+EC01485,Consumer,North,Social Media,2024-03-15
+EC01486,Consumer,West,Email,2022-02-25
+EC01487,Corporate,East,Email,2022-03-21
+EC01488,Consumer,West,Organic Search,2024-08-16
+EC01489,Corporate,East,Social Media,2023-10-28
+EC01490,Consumer,South,Organic Search,2023-01-02
+EC01491,Consumer,North,Paid Ads,2024-09-26
+EC01492,Consumer,South,Social Media,2023-09-10
+EC01493,Corporate,East,Social Media,2023-10-24
+EC01494,Consumer,South,Paid Ads,2023-12-03
+EC01495,Corporate,North,Organic Search,2024-07-15
+EC01496,Corporate,North,Organic Search,2022-06-24
+EC01497,Consumer,North,Organic Search,2023-02-13
+EC01498,Corporate,West,Paid Ads,2022-02-22
+EC01499,Consumer,West,Organic Search,2023-03-04
+EC01500,Corporate,East,Paid Ads,2023-07-12
+EC01501,Consumer,North,Paid Ads,2022-03-01
+EC01502,Consumer,South,Referral,2024-06-11
+EC01503,Consumer,South,Paid Ads,2023-10-23
+EC01504,Corporate,East,Organic Search,2024-07-13
+EC01505,Corporate,South,Organic Search,2022-04-16
+EC01506,Corporate,North,Organic Search,2023-03-08
+EC01507,Corporate,South,Social Media,2022-08-26
+EC01508,Consumer,South,Organic Search,2023-03-11
+EC01509,Corporate,North,Paid Ads,2024-09-13
+EC01510,Home Office,East,Organic Search,2022-12-27
+EC01511,Home Office,South,Organic Search,2024-04-04
+EC01512,Home Office,West,Organic Search,2022-01-21
+EC01513,Home Office,West,Social Media,2023-09-27
+EC01514,Consumer,South,Email,2022-12-15
+EC01515,Consumer,East,Paid Ads,2022-11-02
+EC01516,Consumer,North,Referral,2022-03-31
+EC01517,Consumer,East,Organic Search,2024-12-03
+EC01518,Corporate,West,Referral,2024-04-24
+EC01519,Corporate,North,Referral,2024-06-21
+EC01520,Corporate,South,Social Media,2024-12-29
+EC01521,Consumer,South,Social Media,2024-11-13
+EC01522,Home Office,North,Social Media,2024-08-19
+EC01523,Consumer,South,Referral,2023-06-17
+EC01524,Corporate,North,Organic Search,2024-05-29
+EC01525,Consumer,North,Email,2023-09-19
+EC01526,Consumer,East,Paid Ads,2022-08-29
+EC01527,Consumer,West,Organic Search,2023-08-17
+EC01528,Corporate,South,Email,2024-05-16
+EC01529,Home Office,South,Email,2023-09-16
+EC01530,Consumer,West,Paid Ads,2023-10-14
+EC01531,Consumer,East,Organic Search,2023-07-28
+EC01532,Consumer,East,Paid Ads,2022-03-25
+EC01533,Corporate,East,Email,2024-08-17
+EC01534,Home Office,East,Organic Search,2022-06-23
+EC01535,Consumer,East,Social Media,2022-07-02
+EC01536,Consumer,East,Referral,2022-02-11
+EC01537,Consumer,East,Referral,2022-10-28
+EC01538,Consumer,West,Paid Ads,2022-06-09
+EC01539,Consumer,North,Paid Ads,2023-08-25
+EC01540,Home Office,North,Referral,2024-03-24
+EC01541,Home Office,East,Paid Ads,2024-06-22
+EC01542,Consumer,North,Organic Search,2022-01-18
+EC01543,Consumer,West,Paid Ads,2022-08-14
+EC01544,Consumer,South,Social Media,2022-11-06
+EC01545,Corporate,West,Email,2022-11-08
+EC01546,Consumer,South,Organic Search,2024-05-01
+EC01547,Consumer,North,Referral,2024-06-06
+EC01548,Consumer,South,Organic Search,2024-09-29
+EC01549,Home Office,North,Paid Ads,2022-01-21
+EC01550,Consumer,North,Organic Search,2023-12-18
+EC01551,Consumer,West,Social Media,2022-11-15
+EC01552,Consumer,North,Organic Search,2022-08-27
+EC01553,Consumer,South,Social Media,2022-07-17
+EC01554,Home Office,South,Paid Ads,2024-01-08
+EC01555,Consumer,West,Organic Search,2024-02-14
+EC01556,Consumer,North,Organic Search,2023-04-17
+EC01557,Corporate,South,Referral,2023-09-17
+EC01558,Consumer,North,Paid Ads,2022-10-27
+EC01559,Consumer,West,Email,2022-11-27
+EC01560,Home Office,South,Referral,2024-12-31
+EC01561,Corporate,East,Social Media,2023-12-20
+EC01562,Consumer,West,Paid Ads,2023-05-07
+EC01563,Consumer,West,Organic Search,2022-03-13
+EC01564,Home Office,North,Paid Ads,2022-06-08
+EC01565,Consumer,South,Email,2023-12-21
+EC01566,Corporate,West,Paid Ads,2022-01-21
+EC01567,Corporate,West,Paid Ads,2022-01-09
+EC01568,Consumer,East,Email,2023-06-19
+EC01569,Consumer,East,Paid Ads,2022-03-21
+EC01570,Consumer,West,Email,2022-03-27
+EC01571,Home Office,South,Organic Search,2023-11-12
+EC01572,Consumer,North,Organic Search,2022-09-15
+EC01573,Consumer,East,Organic Search,2024-01-07
+EC01574,Home Office,North,Paid Ads,2023-07-29
+EC01575,Consumer,East,Email,2022-11-08
+EC01576,Home Office,West,Organic Search,2022-11-13
+EC01577,Consumer,East,Referral,2022-06-11
+EC01578,Home Office,East,Social Media,2022-06-18
+EC01579,Consumer,South,Organic Search,2022-01-28
+EC01580,Home Office,West,Organic Search,2022-12-29
+EC01581,Home Office,West,Organic Search,2023-03-04
+EC01582,Home Office,North,Referral,2022-05-15
+EC01583,Home Office,West,Email,2023-01-01
+EC01584,Consumer,South,Paid Ads,2024-06-09
+EC01585,Home Office,North,Social Media,2024-07-16
+EC01586,Consumer,South,Referral,2022-04-30
+EC01587,Consumer,West,Email,2023-11-25
+EC01588,Consumer,West,Email,2022-04-29
+EC01589,Consumer,South,Social Media,2022-09-04
+EC01590,Consumer,West,Organic Search,2024-10-27
+EC01591,Corporate,West,Organic Search,2023-08-29
+EC01592,Consumer,West,Email,2024-07-09
+EC01593,Consumer,West,Organic Search,2023-09-23
+EC01594,Consumer,West,Organic Search,2024-04-08
+EC01595,Home Office,North,Social Media,2024-02-02
+EC01596,Corporate,North,Paid Ads,2024-06-26
+EC01597,Home Office,South,Social Media,2024-09-26
+EC01598,Corporate,North,Email,2022-03-20
+EC01599,Consumer,North,Organic Search,2023-01-27
+EC01600,Consumer,West,Paid Ads,2022-04-13
+EC01601,Consumer,South,Organic Search,2024-11-18
+EC01602,Home Office,South,Referral,2022-09-18
+EC01603,Consumer,West,Referral,2023-01-02
+EC01604,Consumer,North,Social Media,2024-06-09
+EC01605,Corporate,South,Social Media,2022-04-24
+EC01606,Consumer,East,Organic Search,2024-05-18
+EC01607,Consumer,South,Referral,2023-08-15
+EC01608,Home Office,East,Organic Search,2022-02-15
+EC01609,Consumer,South,Social Media,2022-07-23
+EC01610,Consumer,North,Social Media,2023-07-07
+EC01611,Consumer,South,Paid Ads,2023-09-04
+EC01612,Consumer,East,Organic Search,2022-01-31
+EC01613,Consumer,East,Paid Ads,2024-11-18
+EC01614,Consumer,East,Email,2022-03-04
+EC01615,Home Office,South,Social Media,2023-10-16
+EC01616,Consumer,North,Email,2023-07-01
+EC01617,Consumer,West,Paid Ads,2024-10-22
+EC01618,Consumer,South,Organic Search,2024-05-24
+EC01619,Home Office,South,Paid Ads,2022-04-27
+EC01620,Consumer,West,Email,2023-12-26
+EC01621,Consumer,South,Paid Ads,2023-10-06
+EC01622,Consumer,North,Organic Search,2024-11-25
+EC01623,Consumer,North,Paid Ads,2022-05-24
+EC01624,Consumer,West,Organic Search,2024-08-11
+EC01625,Consumer,North,Paid Ads,2023-03-06
+EC01626,Corporate,South,Organic Search,2024-07-06
+EC01627,Consumer,West,Referral,2023-03-11
+EC01628,Home Office,West,Social Media,2023-02-12
+EC01629,Consumer,West,Paid Ads,2023-04-04
+EC01630,Consumer,East,Email,2023-07-29
+EC01631,Consumer,South,Paid Ads,2024-10-01
+EC01632,Consumer,North,Organic Search,2023-03-03
+EC01633,Consumer,North,Social Media,2024-09-30
+EC01634,Corporate,West,Paid Ads,2023-12-17
+EC01635,Consumer,West,Organic Search,2023-06-07
+EC01636,Corporate,South,Paid Ads,2023-10-23
+EC01637,Corporate,West,Paid Ads,2023-12-11
+EC01638,Consumer,East,Organic Search,2022-01-29
+EC01639,Consumer,North,Email,2022-04-28
+EC01640,Corporate,East,Paid Ads,2024-12-16
+EC01641,Consumer,East,Paid Ads,2023-06-19
+EC01642,Consumer,South,Paid Ads,2023-07-26
+EC01643,Consumer,East,Social Media,2024-09-28
+EC01644,Consumer,North,Organic Search,2022-08-31
+EC01645,Consumer,West,Paid Ads,2022-02-23
+EC01646,Consumer,South,Referral,2024-06-27
+EC01647,Corporate,North,Email,2023-04-30
+EC01648,Corporate,West,Organic Search,2023-10-29
+EC01649,Consumer,West,Paid Ads,2023-02-18
+EC01650,Consumer,South,Organic Search,2022-08-27
+EC01651,Corporate,South,Organic Search,2024-12-16
+EC01652,Corporate,North,Social Media,2022-03-08
+EC01653,Consumer,West,Social Media,2022-08-10
+EC01654,Consumer,West,Organic Search,2022-09-10
+EC01655,Consumer,South,Organic Search,2023-02-10
+EC01656,Consumer,East,Social Media,2024-10-16
+EC01657,Corporate,North,Paid Ads,2024-09-25
+EC01658,Consumer,South,Social Media,2022-08-17
+EC01659,Consumer,South,Paid Ads,2022-06-10
+EC01660,Corporate,West,Organic Search,2023-09-20
+EC01661,Consumer,South,Organic Search,2024-07-07
+EC01662,Consumer,West,Social Media,2022-12-09
+EC01663,Corporate,West,Referral,2024-09-24
+EC01664,Consumer,West,Organic Search,2022-08-18
+EC01665,Consumer,North,Paid Ads,2022-01-12
+EC01666,Home Office,West,Paid Ads,2022-10-23
+EC01667,Consumer,West,Referral,2024-07-18
+EC01668,Consumer,West,Organic Search,2022-06-02
+EC01669,Consumer,North,Email,2024-05-15
+EC01670,Consumer,South,Referral,2024-01-10
+EC01671,Corporate,South,Email,2024-01-05
+EC01672,Consumer,South,Email,2024-10-16
+EC01673,Corporate,East,Email,2023-05-26
+EC01674,Consumer,West,Social Media,2024-06-26
+EC01675,Corporate,South,Paid Ads,2023-11-03
+EC01676,Consumer,North,Email,2023-12-26
+EC01677,Corporate,East,Referral,2024-06-21
+EC01678,Home Office,North,Paid Ads,2023-08-28
+EC01679,Consumer,East,Referral,2023-06-09
+EC01680,Consumer,North,Social Media,2023-05-13
+EC01681,Consumer,South,Organic Search,2022-04-05
+EC01682,Corporate,North,Referral,2023-05-29
+EC01683,Consumer,South,Social Media,2022-11-20
+EC01684,Home Office,West,Email,2022-01-18
+EC01685,Corporate,South,Referral,2023-02-27
+EC01686,Home Office,West,Organic Search,2022-02-28
+EC01687,Consumer,East,Paid Ads,2022-06-27
+EC01688,Home Office,West,Referral,2024-03-05
+EC01689,Consumer,South,Organic Search,2022-04-05
+EC01690,Consumer,South,Paid Ads,2023-05-09
+EC01691,Consumer,North,Organic Search,2024-11-03
+EC01692,Corporate,West,Referral,2024-11-05
+EC01693,Consumer,South,Paid Ads,2024-01-14
+EC01694,Corporate,South,Referral,2022-06-07
+EC01695,Consumer,North,Paid Ads,2024-03-30
+EC01696,Corporate,South,Paid Ads,2024-09-12
+EC01697,Consumer,North,Social Media,2022-04-23
+EC01698,Consumer,West,Paid Ads,2023-02-16
+EC01699,Corporate,South,Email,2023-04-16
+EC01700,Corporate,West,Organic Search,2023-07-10
+EC01701,Home Office,North,Email,2023-09-01
+EC01702,Home Office,North,Social Media,2024-09-28
+EC01703,Consumer,West,Social Media,2022-01-11
+EC01704,Consumer,East,Organic Search,2023-01-03
+EC01705,Consumer,North,Organic Search,2024-12-27
+EC01706,Corporate,West,Organic Search,2022-09-28
+EC01707,Consumer,West,Paid Ads,2022-08-05
+EC01708,Consumer,East,Organic Search,2023-11-18
+EC01709,Consumer,North,Organic Search,2022-01-27
+EC01710,Corporate,West,Social Media,2022-01-22
+EC01711,Home Office,East,Referral,2022-10-09
+EC01712,Home Office,North,Organic Search,2024-08-07
+EC01713,Consumer,West,Paid Ads,2023-08-10
+EC01714,Consumer,East,Email,2024-08-26
+EC01715,Consumer,North,Social Media,2024-10-22
+EC01716,Consumer,West,Email,2022-02-01
+EC01717,Corporate,South,Referral,2024-07-02
+EC01718,Consumer,North,Organic Search,2023-04-19
+EC01719,Consumer,South,Organic Search,2022-12-14
+EC01720,Consumer,South,Organic Search,2023-12-31
+EC01721,Consumer,West,Organic Search,2024-06-01
+EC01722,Consumer,South,Email,2024-04-08
+EC01723,Consumer,East,Paid Ads,2022-02-13
+EC01724,Consumer,North,Referral,2024-04-06
+EC01725,Consumer,East,Social Media,2023-10-06
+EC01726,Corporate,South,Social Media,2024-09-17
+EC01727,Consumer,West,Referral,2022-01-14
+EC01728,Consumer,North,Email,2022-10-24
+EC01729,Consumer,South,Social Media,2024-07-11
+EC01730,Consumer,North,Paid Ads,2023-02-13
+EC01731,Consumer,West,Referral,2023-11-10
+EC01732,Consumer,East,Organic Search,2024-10-15
+EC01733,Consumer,East,Organic Search,2022-05-28
+EC01734,Consumer,West,Social Media,2024-02-05
+EC01735,Corporate,East,Social Media,2024-04-05
+EC01736,Consumer,North,Paid Ads,2024-09-03
+EC01737,Home Office,South,Paid Ads,2023-03-27
+EC01738,Consumer,East,Paid Ads,2024-12-22
+EC01739,Corporate,West,Email,2024-06-15
+EC01740,Consumer,North,Referral,2023-10-03
+EC01741,Consumer,South,Organic Search,2024-08-11
+EC01742,Home Office,West,Paid Ads,2024-05-27
+EC01743,Home Office,North,Paid Ads,2023-01-04
+EC01744,Consumer,South,Paid Ads,2024-06-05
+EC01745,Consumer,North,Email,2022-03-05
+EC01746,Consumer,West,Paid Ads,2024-11-30
+EC01747,Consumer,West,Organic Search,2024-02-10
+EC01748,Corporate,North,Organic Search,2023-08-11
+EC01749,Consumer,North,Social Media,2023-01-27
+EC01750,Corporate,South,Organic Search,2023-01-14
+EC01751,Consumer,North,Organic Search,2024-08-15
+EC01752,Home Office,South,Paid Ads,2022-02-21
+EC01753,Consumer,North,Email,2023-09-11
+EC01754,Consumer,North,Organic Search,2023-02-21
+EC01755,Corporate,South,Social Media,2023-02-19
+EC01756,Consumer,West,Organic Search,2023-09-16
+EC01757,Consumer,South,Email,2023-03-04
+EC01758,Corporate,South,Organic Search,2022-06-21
+EC01759,Corporate,East,Paid Ads,2023-05-09
+EC01760,Home Office,South,Social Media,2022-04-13
+EC01761,Home Office,West,Social Media,2022-03-22
+EC01762,Consumer,East,Paid Ads,2024-05-12
+EC01763,Corporate,South,Paid Ads,2024-04-10
+EC01764,Consumer,West,Social Media,2023-01-22
+EC01765,Consumer,East,Organic Search,2023-10-28
+EC01766,Consumer,North,Social Media,2024-06-06
+EC01767,Consumer,East,Organic Search,2024-06-30
+EC01768,Consumer,South,Paid Ads,2022-01-25
+EC01769,Consumer,East,Organic Search,2024-07-04
+EC01770,Home Office,South,Organic Search,2023-02-24
+EC01771,Home Office,South,Social Media,2022-06-07
+EC01772,Corporate,North,Social Media,2022-04-29
+EC01773,Corporate,North,Organic Search,2024-06-18
+EC01774,Consumer,West,Paid Ads,2024-09-28
+EC01775,Home Office,South,Paid Ads,2023-06-18
+EC01776,Consumer,West,Organic Search,2024-12-28
+EC01777,Home Office,South,Organic Search,2023-08-04
+EC01778,Corporate,North,Referral,2022-03-26
+EC01779,Consumer,West,Paid Ads,2022-10-02
+EC01780,Consumer,West,Email,2022-11-14
+EC01781,Consumer,South,Organic Search,2024-10-31
+EC01782,Corporate,North,Organic Search,2022-08-20
+EC01783,Consumer,North,Organic Search,2024-11-04
+EC01784,Consumer,North,Organic Search,2024-07-21
+EC01785,Consumer,West,Paid Ads,2022-04-30
+EC01786,Corporate,South,Email,2022-09-07
+EC01787,Corporate,West,Organic Search,2022-08-26
+EC01788,Consumer,West,Social Media,2023-11-09
+EC01789,Consumer,East,Organic Search,2022-09-29
+EC01790,Home Office,South,Paid Ads,2022-01-31
+EC01791,Consumer,West,Paid Ads,2024-01-02
+EC01792,Corporate,North,Paid Ads,2023-02-12
+EC01793,Consumer,South,Paid Ads,2022-04-28
+EC01794,Consumer,East,Organic Search,2024-04-25
+EC01795,Home Office,North,Paid Ads,2023-01-09
+EC01796,Home Office,West,Organic Search,2024-08-04
+EC01797,Consumer,West,Paid Ads,2022-06-27
+EC01798,Consumer,West,Email,2023-09-24
+EC01799,Consumer,West,Organic Search,2022-04-01
+EC01800,Consumer,South,Organic Search,2024-09-20
+EC01801,Consumer,West,Organic Search,2024-02-16
+EC01802,Consumer,West,Organic Search,2022-12-30
+EC01803,Consumer,North,Paid Ads,2024-09-17
+EC01804,Corporate,North,Social Media,2022-04-06
+EC01805,Corporate,West,Email,2022-06-08
+EC01806,Consumer,West,Paid Ads,2022-08-14
+EC01807,Consumer,West,Email,2022-12-11
+EC01808,Consumer,West,Organic Search,2023-06-15
+EC01809,Consumer,South,Social Media,2024-02-05
+EC01810,Corporate,West,Organic Search,2023-03-16
+EC01811,Consumer,North,Email,2022-06-10
+EC01812,Consumer,South,Social Media,2022-01-08
+EC01813,Consumer,East,Email,2022-01-31
+EC01814,Consumer,North,Social Media,2023-11-11
+EC01815,Consumer,South,Social Media,2024-03-21
+EC01816,Home Office,West,Organic Search,2024-11-14
+EC01817,Consumer,North,Paid Ads,2023-08-23
+EC01818,Corporate,West,Social Media,2022-02-02
+EC01819,Corporate,North,Paid Ads,2022-07-20
+EC01820,Corporate,West,Email,2024-07-27
+EC01821,Consumer,West,Paid Ads,2024-11-10
+EC01822,Consumer,North,Email,2022-04-07
+EC01823,Consumer,East,Paid Ads,2024-10-18
+EC01824,Corporate,South,Social Media,2024-12-13
+EC01825,Home Office,South,Referral,2024-06-30
+EC01826,Corporate,North,Organic Search,2022-12-21
+EC01827,Home Office,North,Paid Ads,2024-02-18
+EC01828,Consumer,East,Paid Ads,2024-05-02
+EC01829,Consumer,South,Organic Search,2022-12-15
+EC01830,Consumer,West,Referral,2024-10-21
+EC01831,Corporate,West,Social Media,2024-11-01
+EC01832,Home Office,South,Social Media,2022-02-01
+EC01833,Consumer,South,Email,2024-01-08
+EC01834,Consumer,South,Social Media,2023-12-28
+EC01835,Corporate,East,Email,2023-08-28
+EC01836,Consumer,North,Organic Search,2022-10-20
+EC01837,Consumer,West,Organic Search,2023-02-12
+EC01838,Consumer,West,Paid Ads,2022-09-08
+EC01839,Consumer,South,Paid Ads,2022-07-25
+EC01840,Consumer,South,Organic Search,2022-07-02
+EC01841,Corporate,East,Social Media,2023-03-26
+EC01842,Consumer,West,Organic Search,2023-07-22
+EC01843,Consumer,West,Social Media,2024-06-02
+EC01844,Home Office,South,Social Media,2023-04-10
+EC01845,Consumer,South,Paid Ads,2024-04-20
+EC01846,Consumer,South,Social Media,2024-12-10
+EC01847,Consumer,East,Social Media,2022-04-13
+EC01848,Consumer,North,Organic Search,2023-05-14
+EC01849,Consumer,South,Paid Ads,2024-06-24
+EC01850,Corporate,North,Referral,2022-07-08
+EC01851,Consumer,West,Organic Search,2022-02-08
+EC01852,Corporate,South,Email,2022-11-17
+EC01853,Consumer,South,Social Media,2024-11-06
+EC01854,Corporate,East,Organic Search,2024-12-12
+EC01855,Home Office,West,Organic Search,2023-08-01
+EC01856,Corporate,East,Organic Search,2023-08-31
+EC01857,Corporate,East,Paid Ads,2024-12-02
+EC01858,Corporate,East,Referral,2024-09-27
+EC01859,Consumer,East,Email,2022-08-16
+EC01860,Consumer,West,Paid Ads,2023-08-16
+EC01861,Home Office,South,Email,2024-05-10
+EC01862,Consumer,North,Email,2023-01-04
+EC01863,Consumer,South,Paid Ads,2023-12-17
+EC01864,Consumer,West,Social Media,2022-12-16
+EC01865,Consumer,East,Referral,2023-08-25
+EC01866,Consumer,North,Referral,2023-08-17
+EC01867,Home Office,West,Email,2022-09-15
+EC01868,Consumer,South,Organic Search,2024-03-01
+EC01869,Corporate,West,Social Media,2024-06-10
+EC01870,Home Office,North,Referral,2024-07-25
+EC01871,Consumer,West,Social Media,2024-01-07
+EC01872,Consumer,South,Referral,2022-02-13
+EC01873,Consumer,South,Organic Search,2023-09-21
+EC01874,Consumer,South,Organic Search,2022-03-04
+EC01875,Consumer,West,Paid Ads,2024-10-19
+EC01876,Consumer,North,Organic Search,2022-10-17
+EC01877,Corporate,East,Organic Search,2022-12-18
+EC01878,Corporate,North,Paid Ads,2023-06-25
+EC01879,Corporate,North,Organic Search,2024-11-23
+EC01880,Home Office,North,Paid Ads,2024-01-17
+EC01881,Consumer,West,Organic Search,2023-12-07
+EC01882,Consumer,South,Email,2022-06-01
+EC01883,Home Office,East,Organic Search,2022-03-04
+EC01884,Consumer,South,Organic Search,2022-08-04
+EC01885,Corporate,West,Organic Search,2023-09-18
+EC01886,Corporate,East,Email,2024-07-18
+EC01887,Home Office,North,Social Media,2023-05-09
+EC01888,Consumer,West,Email,2022-09-24
+EC01889,Consumer,West,Organic Search,2023-05-05
+EC01890,Home Office,East,Social Media,2023-10-09
+EC01891,Corporate,East,Organic Search,2023-08-29
+EC01892,Corporate,West,Paid Ads,2023-11-05
+EC01893,Home Office,West,Organic Search,2022-01-01
+EC01894,Consumer,South,Email,2024-10-15
+EC01895,Consumer,North,Organic Search,2022-05-12
+EC01896,Corporate,West,Social Media,2023-07-01
+EC01897,Consumer,North,Email,2022-02-22
+EC01898,Home Office,North,Organic Search,2022-02-14
+EC01899,Consumer,West,Paid Ads,2023-04-15
+EC01900,Consumer,East,Paid Ads,2024-02-20
+EC01901,Home Office,East,Referral,2022-03-30
+EC01902,Home Office,West,Social Media,2024-12-12
+EC01903,Consumer,West,Organic Search,2024-07-13
+EC01904,Consumer,East,Organic Search,2024-10-05
+EC01905,Consumer,West,Organic Search,2024-01-07
+EC01906,Corporate,West,Organic Search,2023-01-16
+EC01907,Consumer,South,Paid Ads,2022-12-19
+EC01908,Consumer,West,Email,2023-06-27
+EC01909,Corporate,South,Organic Search,2024-05-24
+EC01910,Consumer,North,Referral,2024-12-20
+EC01911,Consumer,West,Organic Search,2023-12-26
+EC01912,Consumer,West,Organic Search,2022-12-26
+EC01913,Consumer,West,Organic Search,2024-01-26
+EC01914,Corporate,East,Organic Search,2023-12-31
+EC01915,Home Office,East,Organic Search,2022-07-07
+EC01916,Corporate,South,Email,2023-02-03
+EC01917,Consumer,North,Organic Search,2023-06-19
+EC01918,Consumer,West,Organic Search,2022-05-30
+EC01919,Consumer,North,Email,2024-05-03
+EC01920,Home Office,North,Social Media,2023-08-21
+EC01921,Home Office,South,Referral,2024-06-20
+EC01922,Consumer,East,Organic Search,2022-06-10
+EC01923,Consumer,North,Paid Ads,2023-05-12
+EC01924,Consumer,West,Social Media,2024-06-08
+EC01925,Consumer,East,Referral,2023-07-12
+EC01926,Corporate,North,Organic Search,2024-05-11
+EC01927,Corporate,North,Social Media,2023-10-16
+EC01928,Consumer,East,Email,2023-10-17
+EC01929,Consumer,South,Paid Ads,2022-06-30
+EC01930,Consumer,North,Organic Search,2022-07-31
+EC01931,Corporate,West,Organic Search,2024-12-28
+EC01932,Consumer,West,Organic Search,2023-07-23
+EC01933,Corporate,South,Social Media,2023-01-02
+EC01934,Consumer,South,Referral,2023-11-10
+EC01935,Consumer,South,Email,2023-02-10
+EC01936,Consumer,South,Organic Search,2023-05-18
+EC01937,Consumer,West,Social Media,2022-05-30
+EC01938,Consumer,West,Paid Ads,2024-03-22
+EC01939,Corporate,South,Organic Search,2024-09-25
+EC01940,Consumer,South,Social Media,2022-12-27
+EC01941,Consumer,West,Referral,2024-07-25
+EC01942,Corporate,West,Organic Search,2024-01-08
+EC01943,Corporate,South,Social Media,2023-09-06
+EC01944,Consumer,South,Paid Ads,2024-06-14
+EC01945,Consumer,East,Email,2024-11-13
+EC01946,Corporate,North,Paid Ads,2024-07-25
+EC01947,Consumer,South,Paid Ads,2024-09-04
+EC01948,Consumer,East,Organic Search,2022-06-03
+EC01949,Consumer,South,Referral,2023-02-25
+EC01950,Corporate,North,Paid Ads,2024-10-12
+EC01951,Home Office,West,Organic Search,2022-05-22
+EC01952,Consumer,West,Paid Ads,2024-07-07
+EC01953,Home Office,West,Social Media,2023-07-16
+EC01954,Consumer,North,Paid Ads,2024-04-07
+EC01955,Consumer,East,Social Media,2022-05-07
+EC01956,Home Office,West,Social Media,2024-05-14
+EC01957,Consumer,South,Paid Ads,2022-10-21
+EC01958,Consumer,East,Social Media,2024-09-14
+EC01959,Consumer,South,Organic Search,2023-07-17
+EC01960,Corporate,West,Social Media,2024-12-02
+EC01961,Corporate,West,Paid Ads,2023-01-30
+EC01962,Consumer,West,Social Media,2022-02-12
+EC01963,Home Office,West,Referral,2022-01-01
+EC01964,Consumer,West,Organic Search,2023-02-23
+EC01965,Home Office,South,Organic Search,2023-12-02
+EC01966,Consumer,East,Email,2023-01-02
+EC01967,Consumer,North,Email,2022-07-23
+EC01968,Consumer,West,Email,2023-12-25
+EC01969,Consumer,North,Organic Search,2022-06-26
+EC01970,Consumer,North,Organic Search,2023-04-01
+EC01971,Corporate,East,Email,2022-01-07
+EC01972,Consumer,West,Email,2022-11-11
+EC01973,Corporate,South,Paid Ads,2024-06-05
+EC01974,Consumer,South,Organic Search,2024-10-16
+EC01975,Home Office,West,Paid Ads,2024-04-26
+EC01976,Consumer,West,Paid Ads,2024-09-26
+EC01977,Consumer,South,Email,2023-12-08
+EC01978,Consumer,South,Social Media,2024-01-01
+EC01979,Consumer,North,Referral,2023-02-08
+EC01980,Consumer,East,Email,2022-10-24
+EC01981,Consumer,West,Paid Ads,2022-03-23
+EC01982,Consumer,South,Paid Ads,2024-01-19
+EC01983,Consumer,North,Paid Ads,2022-07-18
+EC01984,Consumer,West,Paid Ads,2022-12-24
+EC01985,Corporate,West,Paid Ads,2023-02-09
+EC01986,Corporate,West,Email,2024-10-10
+EC01987,Home Office,East,Paid Ads,2022-12-28
+EC01988,Consumer,North,Social Media,2023-07-19
+EC01989,Consumer,West,Email,2022-11-09
+EC01990,Home Office,West,Organic Search,2022-10-01
+EC01991,Consumer,South,Social Media,2022-07-04
+EC01992,Consumer,West,Organic Search,2022-04-01
+EC01993,Consumer,East,Email,2024-11-25
+EC01994,Consumer,North,Email,2024-12-16
+EC01995,Consumer,South,Social Media,2022-02-21
+EC01996,Consumer,West,Paid Ads,2023-02-03
+EC01997,Home Office,South,Organic Search,2023-06-27
+EC01998,Corporate,North,Social Media,2024-08-22
+EC01999,Consumer,West,Social Media,2022-11-22
+EC02000,Consumer,South,Organic Search,2023-08-20
+EC02001,Consumer,East,Social Media,2022-12-22
+EC02002,Corporate,West,Email,2024-05-09
+EC02003,Consumer,East,Organic Search,2022-12-08
+EC02004,Corporate,South,Referral,2024-06-08
+EC02005,Consumer,South,Email,2022-03-17
+EC02006,Consumer,North,Paid Ads,2024-11-24
+EC02007,Home Office,South,Organic Search,2024-02-16
+EC02008,Consumer,South,Social Media,2022-04-10
+EC02009,Consumer,East,Email,2023-10-27
+EC02010,Home Office,West,Social Media,2022-07-30
+EC02011,Consumer,West,Social Media,2024-06-25
+EC02012,Consumer,South,Organic Search,2023-12-07
+EC02013,Consumer,East,Organic Search,2023-11-10
+EC02014,Consumer,East,Organic Search,2023-06-13
+EC02015,Consumer,South,Organic Search,2022-03-13
+EC02016,Consumer,West,Email,2023-11-01
+EC02017,Consumer,West,Organic Search,2022-08-25
+EC02018,Corporate,West,Email,2022-02-04
+EC02019,Corporate,West,Email,2022-06-03
+EC02020,Home Office,East,Organic Search,2022-03-31
+EC02021,Consumer,South,Paid Ads,2023-03-17
+EC02022,Consumer,South,Referral,2022-11-25
+EC02023,Home Office,West,Organic Search,2024-10-14
+EC02024,Corporate,South,Organic Search,2023-01-08
+EC02025,Corporate,South,Organic Search,2024-02-12
+EC02026,Consumer,South,Referral,2023-04-28
+EC02027,Corporate,South,Organic Search,2024-04-12
+EC02028,Home Office,South,Organic Search,2022-02-17
+EC02029,Corporate,North,Organic Search,2025-01-04
+EC02030,Home Office,West,Paid Ads,2022-08-26
+EC02031,Consumer,South,Organic Search,2023-09-29
+EC02032,Consumer,West,Paid Ads,2022-07-12
+EC02033,Consumer,East,Social Media,2023-09-17
+EC02034,Consumer,East,Organic Search,2022-01-14
+EC02035,Corporate,West,Social Media,2022-12-22
+EC02036,Consumer,South,Organic Search,2022-12-22
+EC02037,Corporate,South,Organic Search,2022-03-24
+EC02038,Consumer,East,Referral,2022-10-23
+EC02039,Consumer,South,Organic Search,2024-05-11
+EC02040,Consumer,West,Email,2024-10-09
+EC02041,Consumer,West,Paid Ads,2022-07-20
+EC02042,Corporate,West,Paid Ads,2022-02-12
+EC02043,Consumer,East,Paid Ads,2024-10-19
+EC02044,Consumer,West,Email,2024-07-20
+EC02045,Consumer,North,Paid Ads,2022-09-02
+EC02046,Consumer,North,Paid Ads,2023-02-09
+EC02047,Corporate,North,Organic Search,2023-03-07
+EC02048,Consumer,West,Paid Ads,2024-03-12
+EC02049,Corporate,South,Organic Search,2024-11-07
+EC02050,Home Office,South,Social Media,2022-04-29
+EC02051,Consumer,North,Organic Search,2023-05-21
+EC02052,Consumer,South,Paid Ads,2023-01-16
+EC02053,Consumer,North,Paid Ads,2022-06-09
+EC02054,Consumer,West,Paid Ads,2024-11-20
+EC02055,Corporate,West,Organic Search,2024-04-02
+EC02056,Corporate,East,Referral,2022-10-14
+EC02057,Consumer,South,Social Media,2023-03-20
+EC02058,Consumer,South,Organic Search,2024-03-17
+EC02059,Consumer,North,Organic Search,2022-06-29
+EC02060,Consumer,East,Organic Search,2022-05-11
+EC02061,Corporate,South,Email,2023-02-01
+EC02062,Consumer,North,Organic Search,2024-10-27
+EC02063,Consumer,North,Referral,2024-07-29
+EC02064,Corporate,South,Social Media,2022-10-04
+EC02065,Consumer,North,Social Media,2022-12-09
+EC02066,Home Office,South,Paid Ads,2022-05-12
+EC02067,Consumer,West,Social Media,2023-03-02
+EC02068,Consumer,West,Social Media,2023-05-06
+EC02069,Corporate,West,Email,2023-04-22
+EC02070,Consumer,North,Organic Search,2023-01-04
+EC02071,Consumer,West,Paid Ads,2023-07-11
+EC02072,Home Office,West,Social Media,2024-04-16
+EC02073,Consumer,West,Organic Search,2023-06-13
+EC02074,Corporate,South,Organic Search,2023-09-27
+EC02075,Consumer,North,Organic Search,2022-02-26
+EC02076,Consumer,West,Social Media,2022-05-09
+EC02077,Consumer,West,Organic Search,2023-01-20
+EC02078,Consumer,North,Social Media,2022-08-17
+EC02079,Corporate,West,Social Media,2023-12-26
+EC02080,Consumer,South,Paid Ads,2024-08-30
+EC02081,Consumer,West,Email,2023-10-07
+EC02082,Consumer,West,Paid Ads,2024-06-03
+EC02083,Consumer,South,Social Media,2022-12-02
+EC02084,Consumer,East,Email,2023-10-26
+EC02085,Consumer,South,Organic Search,2024-04-29
+EC02086,Consumer,East,Organic Search,2023-01-05
+EC02087,Corporate,East,Organic Search,2024-05-07
+EC02088,Consumer,East,Paid Ads,2023-10-28
+EC02089,Corporate,South,Paid Ads,2022-09-22
+EC02090,Consumer,South,Paid Ads,2022-09-05
+EC02091,Consumer,West,Paid Ads,2024-01-23
+EC02092,Consumer,West,Email,2024-04-24
+EC02093,Consumer,West,Social Media,2022-02-02
+EC02094,Home Office,North,Paid Ads,2022-03-12
+EC02095,Corporate,North,Organic Search,2022-11-13
+EC02096,Consumer,West,Email,2024-11-07
+EC02097,Consumer,South,Paid Ads,2023-07-10
+EC02098,Consumer,South,Social Media,2024-04-01
+EC02099,Consumer,West,Organic Search,2022-11-08
+EC02100,Consumer,South,Organic Search,2024-12-12
+EC02101,Home Office,South,Email,2023-08-05
+EC02102,Consumer,South,Social Media,2024-01-13
+EC02103,Corporate,South,Paid Ads,2024-01-19
+EC02104,Corporate,East,Organic Search,2024-12-15
+EC02105,Consumer,South,Email,2024-10-19
+EC02106,Consumer,South,Organic Search,2022-04-16
+EC02107,Corporate,South,Social Media,2022-09-10
+EC02108,Home Office,North,Paid Ads,2023-04-10
+EC02109,Consumer,North,Paid Ads,2024-05-22
+EC02110,Consumer,West,Social Media,2022-07-31
+EC02111,Home Office,West,Social Media,2023-10-13
+EC02112,Corporate,East,Social Media,2024-04-21
+EC02113,Consumer,West,Organic Search,2024-11-26
+EC02114,Corporate,East,Social Media,2023-07-27
+EC02115,Home Office,West,Social Media,2022-01-04
+EC02116,Consumer,East,Organic Search,2024-02-20
+EC02117,Consumer,West,Social Media,2024-05-03
+EC02118,Consumer,West,Referral,2023-03-25
+EC02119,Consumer,West,Organic Search,2023-02-11
+EC02120,Consumer,West,Organic Search,2023-06-01
+EC02121,Consumer,West,Paid Ads,2023-12-02
+EC02122,Consumer,West,Paid Ads,2023-08-05
+EC02123,Consumer,West,Social Media,2024-09-02
+EC02124,Corporate,West,Paid Ads,2024-09-03
+EC02125,Consumer,West,Paid Ads,2023-10-16
+EC02126,Home Office,South,Paid Ads,2023-06-12
+EC02127,Consumer,North,Social Media,2022-11-17
+EC02128,Consumer,North,Social Media,2023-06-01
+EC02129,Consumer,North,Organic Search,2022-09-24
+EC02130,Consumer,East,Email,2022-05-26
+EC02131,Consumer,North,Referral,2024-04-06
+EC02132,Consumer,South,Organic Search,2023-08-09
+EC02133,Home Office,West,Paid Ads,2023-09-13
+EC02134,Home Office,South,Paid Ads,2023-06-21
+EC02135,Consumer,North,Organic Search,2023-10-23
+EC02136,Consumer,South,Social Media,2022-12-18
+EC02137,Home Office,West,Paid Ads,2023-12-08
+EC02138,Consumer,South,Paid Ads,2023-08-31
+EC02139,Consumer,South,Organic Search,2022-08-06
+EC02140,Home Office,South,Email,2022-10-03
+EC02141,Consumer,North,Social Media,2022-09-20
+EC02142,Consumer,North,Organic Search,2022-09-05
+EC02143,Consumer,South,Referral,2022-10-14
+EC02144,Consumer,West,Social Media,2024-07-20
+EC02145,Consumer,North,Social Media,2023-11-09
+EC02146,Consumer,North,Organic Search,2024-04-05
+EC02147,Corporate,South,Email,2024-12-11
+EC02148,Consumer,West,Paid Ads,2023-04-01
+EC02149,Consumer,East,Social Media,2024-06-23
+EC02150,Consumer,South,Social Media,2022-02-23
+EC02151,Consumer,South,Paid Ads,2023-07-13
+EC02152,Corporate,West,Referral,2022-02-08
+EC02153,Home Office,North,Organic Search,2022-10-19
+EC02154,Corporate,North,Social Media,2024-06-14
+EC02155,Consumer,South,Organic Search,2024-08-13
+EC02156,Consumer,East,Social Media,2023-01-07
+EC02157,Corporate,South,Organic Search,2023-03-16
+EC02158,Corporate,North,Organic Search,2022-03-02
+EC02159,Consumer,South,Referral,2022-10-21
+EC02160,Corporate,North,Social Media,2023-04-10
+EC02161,Consumer,East,Referral,2023-10-08
+EC02162,Consumer,East,Social Media,2023-12-11
+EC02163,Consumer,East,Social Media,2022-02-08
+EC02164,Consumer,East,Email,2022-04-15
+EC02165,Home Office,West,Email,2024-03-22
+EC02166,Consumer,South,Social Media,2023-06-21
+EC02167,Corporate,West,Email,2022-07-14
+EC02168,Consumer,South,Paid Ads,2022-07-27
+EC02169,Corporate,West,Social Media,2023-09-03
+EC02170,Home Office,West,Paid Ads,2024-03-21
+EC02171,Consumer,West,Email,2024-07-09
+EC02172,Consumer,North,Organic Search,2022-08-09
+EC02173,Consumer,North,Organic Search,2023-05-11
+EC02174,Consumer,South,Paid Ads,2024-07-29
+EC02175,Consumer,South,Email,2022-03-01
+EC02176,Corporate,West,Social Media,2023-01-28
+EC02177,Consumer,East,Paid Ads,2023-01-17
+EC02178,Consumer,South,Referral,2022-01-17
+EC02179,Consumer,West,Organic Search,2023-05-22
+EC02180,Home Office,West,Organic Search,2024-10-24
+EC02181,Consumer,West,Organic Search,2022-10-21
+EC02182,Consumer,South,Paid Ads,2024-12-18
+EC02183,Consumer,South,Paid Ads,2023-06-26
+EC02184,Home Office,North,Organic Search,2024-08-01
+EC02185,Consumer,West,Paid Ads,2022-10-23
+EC02186,Consumer,South,Email,2022-02-28
+EC02187,Corporate,West,Organic Search,2022-08-12
+EC02188,Home Office,East,Social Media,2023-06-19
+EC02189,Consumer,East,Organic Search,2022-06-26
+EC02190,Home Office,North,Email,2023-11-22
+EC02191,Consumer,North,Social Media,2022-05-01
+EC02192,Consumer,West,Organic Search,2022-12-20
+EC02193,Consumer,South,Social Media,2024-03-30
+EC02194,Home Office,South,Email,2022-04-18
+EC02195,Home Office,South,Social Media,2024-02-02
+EC02196,Consumer,North,Organic Search,2022-08-30
+EC02197,Consumer,North,Organic Search,2024-01-23
+EC02198,Consumer,North,Paid Ads,2024-03-06
+EC02199,Consumer,North,Organic Search,2023-09-15
+EC02200,Corporate,East,Organic Search,2023-04-26
+EC02201,Consumer,North,Paid Ads,2022-08-23
+EC02202,Consumer,South,Referral,2022-06-14
+EC02203,Home Office,North,Email,2024-01-03
+EC02204,Consumer,North,Email,2023-07-07
+EC02205,Consumer,North,Referral,2023-03-09
+EC02206,Consumer,West,Paid Ads,2024-06-21
+EC02207,Corporate,South,Referral,2023-11-15
+EC02208,Consumer,North,Paid Ads,2022-12-09
+EC02209,Consumer,West,Email,2024-10-21
+EC02210,Home Office,East,Paid Ads,2023-08-05
+EC02211,Consumer,West,Organic Search,2023-06-24
+EC02212,Consumer,South,Referral,2023-08-02
+EC02213,Consumer,West,Organic Search,2023-11-08
+EC02214,Consumer,East,Organic Search,2022-03-07
+EC02215,Corporate,North,Organic Search,2022-02-04
+EC02216,Consumer,West,Paid Ads,2024-01-13
+EC02217,Home Office,South,Paid Ads,2024-01-15
+EC02218,Home Office,South,Paid Ads,2022-06-09
+EC02219,Consumer,South,Paid Ads,2022-01-03
+EC02220,Home Office,West,Paid Ads,2022-06-06
+EC02221,Consumer,West,Email,2022-02-24
+EC02222,Corporate,West,Social Media,2024-03-11
+EC02223,Corporate,West,Organic Search,2022-05-24
+EC02224,Consumer,South,Paid Ads,2022-12-29
+EC02225,Home Office,East,Referral,2022-09-21
+EC02226,Home Office,South,Social Media,2023-07-27
+EC02227,Consumer,East,Organic Search,2023-02-22
+EC02228,Corporate,South,Paid Ads,2024-09-16
+EC02229,Consumer,West,Organic Search,2022-05-02
+EC02230,Consumer,East,Social Media,2023-09-20
+EC02231,Corporate,South,Organic Search,2022-04-09
+EC02232,Consumer,West,Organic Search,2022-07-16
+EC02233,Home Office,West,Organic Search,2022-08-08
+EC02234,Home Office,North,Referral,2022-05-29
+EC02235,Consumer,West,Email,2023-06-30
+EC02236,Consumer,East,Paid Ads,2022-07-30
+EC02237,Corporate,West,Paid Ads,2022-05-03
+EC02238,Consumer,North,Email,2022-03-07
+EC02239,Consumer,North,Social Media,2024-03-14
+EC02240,Consumer,North,Paid Ads,2022-03-13
+EC02241,Consumer,West,Organic Search,2023-03-17
+EC02242,Corporate,South,Social Media,2024-10-15
+EC02243,Consumer,North,Organic Search,2022-04-18
+EC02244,Consumer,West,Social Media,2024-06-10
+EC02245,Consumer,South,Paid Ads,2022-05-17
+EC02246,Corporate,South,Organic Search,2022-07-20
+EC02247,Consumer,North,Email,2022-01-31
+EC02248,Corporate,West,Paid Ads,2023-07-22
+EC02249,Home Office,West,Organic Search,2022-04-06
+EC02250,Consumer,East,Organic Search,2023-06-02
+EC02251,Consumer,East,Social Media,2023-03-01
+EC02252,Consumer,West,Social Media,2023-04-28
+EC02253,Home Office,East,Social Media,2024-09-05
+EC02254,Corporate,North,Organic Search,2022-07-21
+EC02255,Home Office,South,Email,2023-10-17
+EC02256,Consumer,South,Paid Ads,2022-10-26
+EC02257,Corporate,West,Social Media,2024-04-11
+EC02258,Consumer,North,Organic Search,2024-05-08
+EC02259,Consumer,West,Organic Search,2024-08-02
+EC02260,Consumer,North,Organic Search,2024-02-06
+EC02261,Consumer,North,Organic Search,2023-09-04
+EC02262,Corporate,South,Paid Ads,2023-10-01
+EC02263,Home Office,South,Referral,2022-08-15
+EC02264,Corporate,South,Paid Ads,2023-12-30
+EC02265,Consumer,North,Organic Search,2024-10-24
+EC02266,Consumer,North,Organic Search,2023-08-31
+EC02267,Home Office,North,Paid Ads,2024-05-14
+EC02268,Corporate,West,Social Media,2024-02-06
+EC02269,Corporate,South,Paid Ads,2023-11-24
+EC02270,Consumer,West,Email,2022-05-09
+EC02271,Consumer,South,Paid Ads,2023-05-02
+EC02272,Corporate,East,Email,2023-04-06
+EC02273,Consumer,South,Paid Ads,2023-05-11
+EC02274,Consumer,North,Paid Ads,2023-07-21
+EC02275,Consumer,East,Email,2023-09-23
+EC02276,Corporate,East,Social Media,2022-06-29
+EC02277,Consumer,West,Referral,2022-11-04
+EC02278,Home Office,West,Email,2024-12-21
+EC02279,Consumer,West,Organic Search,2023-10-24
+EC02280,Consumer,North,Social Media,2022-05-28
+EC02281,Consumer,West,Organic Search,2022-06-22
+EC02282,Consumer,North,Paid Ads,2022-07-26
+EC02283,Corporate,South,Organic Search,2024-06-19
+EC02284,Consumer,South,Email,2024-12-17
+EC02285,Corporate,South,Referral,2022-10-10
+EC02286,Corporate,South,Referral,2024-08-10
+EC02287,Consumer,East,Organic Search,2024-07-26
+EC02288,Consumer,West,Social Media,2024-08-30
+EC02289,Consumer,West,Organic Search,2023-11-05
+EC02290,Consumer,West,Social Media,2024-03-26
+EC02291,Corporate,East,Social Media,2023-02-17
+EC02292,Home Office,South,Paid Ads,2022-04-21
+EC02293,Consumer,West,Organic Search,2024-12-08
+EC02294,Consumer,North,Social Media,2022-08-15
+EC02295,Consumer,West,Social Media,2022-07-28
+EC02296,Consumer,South,Referral,2023-10-16
+EC02297,Consumer,South,Paid Ads,2024-02-15
+EC02298,Consumer,East,Paid Ads,2024-01-01
+EC02299,Consumer,North,Organic Search,2023-03-21
+EC02300,Home Office,South,Email,2022-08-19
+EC02301,Consumer,South,Paid Ads,2024-07-22
+EC02302,Corporate,West,Organic Search,2022-02-17
+EC02303,Consumer,South,Social Media,2023-01-17
+EC02304,Consumer,West,Paid Ads,2022-05-23
+EC02305,Corporate,West,Organic Search,2024-08-18
+EC02306,Home Office,West,Organic Search,2022-03-28
+EC02307,Corporate,North,Paid Ads,2022-10-17
+EC02308,Consumer,North,Organic Search,2023-03-18
+EC02309,Consumer,West,Paid Ads,2022-06-14
+EC02310,Consumer,South,Social Media,2023-08-27
+EC02311,Consumer,East,Social Media,2024-01-28
+EC02312,Consumer,North,Email,2024-06-13
+EC02313,Consumer,North,Organic Search,2022-11-13
+EC02314,Consumer,East,Organic Search,2022-01-22
+EC02315,Corporate,South,Email,2022-04-22
+EC02316,Corporate,South,Organic Search,2024-12-05
+EC02317,Consumer,East,Organic Search,2023-08-11
+EC02318,Corporate,South,Email,2022-03-16
+EC02319,Corporate,East,Paid Ads,2024-04-02
+EC02320,Consumer,East,Organic Search,2024-03-20
+EC02321,Corporate,West,Social Media,2023-03-18
+EC02322,Corporate,East,Paid Ads,2024-08-01
+EC02323,Home Office,East,Email,2023-01-28
+EC02324,Consumer,South,Paid Ads,2024-04-10
+EC02325,Corporate,West,Organic Search,2022-05-09
+EC02326,Consumer,North,Organic Search,2024-11-21
+EC02327,Consumer,West,Organic Search,2024-03-25
+EC02328,Consumer,West,Social Media,2022-10-23
+EC02329,Consumer,North,Email,2023-07-27
+EC02330,Corporate,West,Organic Search,2022-06-08
+EC02331,Consumer,North,Email,2023-03-25
+EC02332,Corporate,East,Paid Ads,2022-07-28
+EC02333,Consumer,West,Organic Search,2023-07-18
+EC02334,Consumer,West,Paid Ads,2023-03-27
+EC02335,Consumer,North,Social Media,2023-09-10
+EC02336,Consumer,West,Social Media,2023-08-22
+EC02337,Home Office,East,Organic Search,2024-03-10
+EC02338,Consumer,West,Organic Search,2023-07-12
+EC02339,Consumer,West,Organic Search,2023-12-05
+EC02340,Corporate,West,Paid Ads,2022-12-03
+EC02341,Consumer,South,Referral,2022-03-06
+EC02342,Corporate,West,Social Media,2024-01-24
+EC02343,Consumer,North,Paid Ads,2023-06-04
+EC02344,Home Office,West,Referral,2024-08-07
+EC02345,Corporate,West,Email,2022-04-18
+EC02346,Consumer,East,Paid Ads,2022-09-05
+EC02347,Consumer,East,Paid Ads,2024-12-03
+EC02348,Consumer,North,Organic Search,2024-01-20
+EC02349,Consumer,East,Referral,2024-04-28
+EC02350,Home Office,North,Organic Search,2023-09-16
+EC02351,Corporate,South,Paid Ads,2024-07-15
+EC02352,Home Office,West,Organic Search,2023-03-01
+EC02353,Corporate,East,Social Media,2022-06-03
+EC02354,Consumer,East,Referral,2023-12-27
+EC02355,Consumer,South,Organic Search,2023-02-10
+EC02356,Consumer,West,Organic Search,2023-09-04
+EC02357,Home Office,North,Organic Search,2023-06-16
+EC02358,Consumer,West,Email,2022-06-12
+EC02359,Home Office,South,Social Media,2023-03-21
+EC02360,Corporate,South,Referral,2024-09-03
+EC02361,Home Office,East,Email,2023-07-23
+EC02362,Consumer,West,Paid Ads,2023-01-27
+EC02363,Consumer,East,Email,2024-11-17
+EC02364,Corporate,South,Email,2023-09-13
+EC02365,Consumer,North,Organic Search,2022-02-18
+EC02366,Home Office,West,Paid Ads,2024-09-15
+EC02367,Consumer,West,Paid Ads,2023-06-24
+EC02368,Consumer,South,Paid Ads,2022-02-26
+EC02369,Consumer,North,Social Media,2023-11-20
+EC02370,Consumer,West,Paid Ads,2023-03-03
+EC02371,Consumer,West,Email,2024-11-24
+EC02372,Consumer,West,Email,2024-12-27
+EC02373,Corporate,East,Social Media,2023-08-14
+EC02374,Consumer,West,Paid Ads,2023-01-11
+EC02375,Home Office,East,Social Media,2023-12-01
+EC02376,Consumer,West,Social Media,2024-10-09
+EC02377,Corporate,West,Social Media,2022-08-19
+EC02378,Consumer,North,Organic Search,2024-03-30
+EC02379,Corporate,North,Organic Search,2023-01-22
+EC02380,Consumer,West,Paid Ads,2022-07-18
+EC02381,Consumer,South,Social Media,2022-04-24
+EC02382,Consumer,East,Paid Ads,2023-07-04
+EC02383,Consumer,West,Paid Ads,2022-12-20
+EC02384,Corporate,South,Paid Ads,2023-10-16
+EC02385,Home Office,West,Referral,2023-11-02
+EC02386,Consumer,South,Email,2023-02-15
+EC02387,Corporate,North,Social Media,2022-04-17
+EC02388,Home Office,West,Organic Search,2024-07-01
+EC02389,Home Office,West,Organic Search,2023-01-10
+EC02390,Consumer,North,Referral,2022-03-19
+EC02391,Corporate,West,Email,2022-05-17
+EC02392,Corporate,West,Email,2023-12-19
+EC02393,Corporate,West,Social Media,2022-04-17
+EC02394,Consumer,East,Organic Search,2023-01-23
+EC02395,Corporate,North,Organic Search,2022-10-23
+EC02396,Home Office,East,Organic Search,2023-11-17
+EC02397,Home Office,West,Organic Search,2024-04-07
+EC02398,Consumer,North,Organic Search,2023-07-23
+EC02399,Corporate,West,Email,2022-06-15
+EC02400,Corporate,South,Paid Ads,2024-06-24
+EC02401,Corporate,West,Organic Search,2023-08-20
+EC02402,Consumer,West,Paid Ads,2022-10-09
+EC02403,Home Office,West,Email,2022-11-22
+EC02404,Consumer,East,Paid Ads,2024-12-28
+EC02405,Consumer,West,Organic Search,2023-12-25
+EC02406,Home Office,South,Email,2022-01-26
+EC02407,Consumer,North,Organic Search,2024-09-30
+EC02408,Consumer,West,Organic Search,2022-06-14
+EC02409,Consumer,East,Paid Ads,2023-03-11
+EC02410,Corporate,South,Referral,2022-06-12
+EC02411,Consumer,West,Paid Ads,2022-04-28
+EC02412,Consumer,South,Social Media,2023-02-03
+EC02413,Consumer,West,Referral,2022-10-11
+EC02414,Consumer,South,Paid Ads,2023-02-06
+EC02415,Corporate,North,Referral,2022-06-15
+EC02416,Consumer,South,Email,2022-07-26
+EC02417,Consumer,West,Organic Search,2024-06-01
+EC02418,Corporate,West,Paid Ads,2022-08-26
+EC02419,Home Office,East,Paid Ads,2024-04-24
+EC02420,Home Office,North,Social Media,2023-12-09
+EC02421,Consumer,West,Email,2024-08-31
+EC02422,Corporate,South,Organic Search,2022-12-14
+EC02423,Corporate,West,Referral,2023-04-12
+EC02424,Consumer,West,Social Media,2024-10-17
+EC02425,Consumer,North,Paid Ads,2023-01-22
+EC02426,Consumer,North,Social Media,2022-03-02
+EC02427,Consumer,North,Social Media,2024-05-20
+EC02428,Consumer,East,Social Media,2022-10-09
+EC02429,Consumer,South,Email,2023-12-09
+EC02430,Corporate,North,Email,2023-05-21
+EC02431,Corporate,West,Organic Search,2024-10-22
+EC02432,Corporate,South,Email,2022-08-28
+EC02433,Corporate,South,Paid Ads,2022-03-26
+EC02434,Consumer,South,Social Media,2022-02-06
+EC02435,Consumer,North,Organic Search,2024-05-01
+EC02436,Corporate,West,Paid Ads,2022-11-23
+EC02437,Consumer,North,Paid Ads,2022-11-06
+EC02438,Home Office,South,Paid Ads,2024-09-06
+EC02439,Consumer,West,Paid Ads,2023-03-06
+EC02440,Consumer,North,Email,2023-04-11
+EC02441,Consumer,East,Paid Ads,2023-02-27
+EC02442,Home Office,South,Organic Search,2023-07-30
+EC02443,Consumer,South,Email,2022-08-14
+EC02444,Home Office,South,Social Media,2024-07-03
+EC02445,Consumer,West,Email,2022-09-04
+EC02446,Consumer,South,Organic Search,2023-10-30
+EC02447,Consumer,North,Referral,2024-10-16
+EC02448,Corporate,West,Organic Search,2023-02-25
+EC02449,Consumer,North,Paid Ads,2023-04-02
+EC02450,Consumer,South,Organic Search,2024-06-27
+EC02451,Home Office,West,Organic Search,2022-01-25
+EC02452,Consumer,South,Social Media,2023-06-15
+EC02453,Consumer,North,Organic Search,2022-11-29
+EC02454,Corporate,East,Paid Ads,2022-01-04
+EC02455,Corporate,South,Social Media,2023-04-10
+EC02456,Consumer,West,Organic Search,2023-11-15
+EC02457,Home Office,West,Organic Search,2024-10-12
+EC02458,Consumer,West,Organic Search,2023-09-04
+EC02459,Consumer,South,Social Media,2024-03-02
+EC02460,Corporate,West,Organic Search,2022-12-19
+EC02461,Consumer,West,Email,2022-04-14
+EC02462,Corporate,North,Email,2024-11-07
+EC02463,Consumer,South,Email,2024-07-22
+EC02464,Corporate,West,Email,2022-11-15
+EC02465,Consumer,North,Email,2023-08-21
+EC02466,Consumer,South,Email,2022-02-28
+EC02467,Corporate,South,Organic Search,2024-05-18
+EC02468,Consumer,South,Organic Search,2023-03-12
+EC02469,Consumer,West,Organic Search,2022-03-20
+EC02470,Consumer,East,Organic Search,2024-11-29
+EC02471,Consumer,South,Organic Search,2022-10-19
+EC02472,Corporate,South,Email,2023-06-14
+EC02473,Consumer,North,Paid Ads,2022-07-23
+EC02474,Corporate,South,Paid Ads,2024-12-17
+EC02475,Home Office,North,Referral,2024-10-08
+EC02476,Consumer,West,Organic Search,2022-01-22
+EC02477,Consumer,North,Organic Search,2022-06-30
+EC02478,Consumer,North,Social Media,2024-08-16
+EC02479,Home Office,West,Organic Search,2023-03-15
+EC02480,Consumer,West,Organic Search,2024-09-20
+EC02481,Consumer,North,Paid Ads,2024-04-10
+EC02482,Consumer,West,Email,2024-08-23
+EC02483,Consumer,North,Organic Search,2024-10-25
+EC02484,Consumer,East,Organic Search,2023-08-22
+EC02485,Home Office,East,Social Media,2023-03-12
+EC02486,Consumer,West,Paid Ads,2024-01-10
+EC02487,Consumer,South,Paid Ads,2023-11-21
+EC02488,Consumer,South,Organic Search,2024-06-02
+EC02489,Corporate,East,Organic Search,2022-05-24
+EC02490,Home Office,North,Organic Search,2024-06-25
+EC02491,Consumer,East,Referral,2022-01-23
+EC02492,Consumer,East,Organic Search,2022-09-27
+EC02493,Corporate,West,Organic Search,2024-09-25
+EC02494,Home Office,West,Organic Search,2024-09-29
+EC02495,Consumer,South,Organic Search,2024-06-11
+EC02496,Consumer,East,Referral,2023-08-28
+EC02497,Consumer,West,Organic Search,2024-10-22
+EC02498,Consumer,West,Referral,2022-01-29
+EC02499,Corporate,West,Social Media,2023-06-01
+EC02500,Corporate,West,Paid Ads,2024-10-26
+EC02501,Consumer,North,Paid Ads,2023-02-22
+EC02502,Consumer,West,Organic Search,2023-03-14
+EC02503,Home Office,South,Social Media,2024-05-23
+EC02504,Corporate,West,Paid Ads,2024-01-08
+EC02505,Corporate,West,Organic Search,2024-07-28
+EC02506,Corporate,South,Social Media,2024-09-12
+EC02507,Corporate,North,Paid Ads,2024-08-01
+EC02508,Corporate,West,Referral,2024-12-07
+EC02509,Consumer,West,Paid Ads,2023-02-26
+EC02510,Consumer,West,Referral,2024-08-15
+EC02511,Consumer,North,Organic Search,2022-12-11
+EC02512,Consumer,West,Social Media,2023-03-30
+EC02513,Consumer,East,Paid Ads,2023-04-18
+EC02514,Consumer,North,Social Media,2024-07-13
+EC02515,Consumer,West,Organic Search,2024-08-28
+EC02516,Consumer,North,Organic Search,2024-08-26
+EC02517,Corporate,East,Paid Ads,2023-01-05
+EC02518,Consumer,North,Social Media,2024-12-17
+EC02519,Consumer,North,Paid Ads,2023-01-09
+EC02520,Corporate,South,Social Media,2024-05-27
+EC02521,Home Office,South,Social Media,2024-08-28
+EC02522,Consumer,West,Referral,2024-04-09
+EC02523,Consumer,North,Social Media,2023-02-12
+EC02524,Consumer,North,Organic Search,2023-06-30
+EC02525,Consumer,South,Referral,2024-01-21
+EC02526,Corporate,South,Paid Ads,2023-11-11
+EC02527,Consumer,South,Organic Search,2023-05-19
+EC02528,Consumer,South,Social Media,2024-03-14
+EC02529,Consumer,South,Organic Search,2023-03-28
+EC02530,Home Office,South,Paid Ads,2023-07-08
+EC02531,Corporate,South,Paid Ads,2024-07-20
+EC02532,Consumer,West,Organic Search,2023-09-20
+EC02533,Consumer,West,Paid Ads,2024-04-30
+EC02534,Consumer,East,Referral,2024-04-28
+EC02535,Consumer,West,Email,2022-08-28
+EC02536,Corporate,North,Organic Search,2024-01-28
+EC02537,Consumer,South,Social Media,2024-07-18
+EC02538,Consumer,West,Organic Search,2024-06-07
+EC02539,Corporate,North,Paid Ads,2022-08-03
+EC02540,Home Office,West,Paid Ads,2023-05-13
+EC02541,Consumer,South,Social Media,2022-12-13
+EC02542,Home Office,West,Paid Ads,2022-07-26
+EC02543,Consumer,West,Organic Search,2023-10-16
+EC02544,Consumer,West,Referral,2024-11-29
+EC02545,Consumer,West,Email,2024-10-14
+EC02546,Home Office,East,Organic Search,2024-07-24
+EC02547,Consumer,East,Paid Ads,2023-11-11
+EC02548,Consumer,North,Referral,2024-07-02
+EC02549,Corporate,South,Email,2024-03-09
+EC02550,Consumer,South,Referral,2024-11-30
+EC02551,Consumer,South,Social Media,2023-04-29
+EC02552,Consumer,North,Referral,2023-10-20
+EC02553,Home Office,East,Organic Search,2022-05-24
+EC02554,Corporate,West,Email,2022-11-25
+EC02555,Consumer,East,Social Media,2022-09-23
+EC02556,Consumer,West,Social Media,2023-06-12
+EC02557,Consumer,South,Social Media,2022-02-05
+EC02558,Consumer,South,Organic Search,2024-10-27
+EC02559,Consumer,West,Social Media,2024-02-12
+EC02560,Consumer,West,Paid Ads,2024-05-16
+EC02561,Consumer,West,Paid Ads,2023-06-01
+EC02562,Consumer,West,Organic Search,2023-01-14
+EC02563,Corporate,West,Social Media,2024-02-01
+EC02564,Consumer,South,Paid Ads,2024-08-11
+EC02565,Home Office,South,Social Media,2023-10-10
+EC02566,Consumer,South,Organic Search,2024-07-19
+EC02567,Home Office,West,Paid Ads,2023-12-29
+EC02568,Consumer,South,Paid Ads,2022-06-13
+EC02569,Consumer,North,Paid Ads,2024-10-01
+EC02570,Consumer,West,Paid Ads,2023-10-14
+EC02571,Consumer,North,Paid Ads,2024-02-18
+EC02572,Corporate,North,Social Media,2024-06-08
+EC02573,Home Office,East,Referral,2024-10-09
+EC02574,Home Office,West,Paid Ads,2023-02-23
+EC02575,Consumer,West,Email,2023-08-09
+EC02576,Consumer,West,Referral,2022-07-31
+EC02577,Corporate,West,Organic Search,2022-04-24
+EC02578,Consumer,East,Email,2024-01-31
+EC02579,Corporate,West,Social Media,2023-06-14
+EC02580,Consumer,East,Organic Search,2023-01-05
+EC02581,Consumer,West,Social Media,2022-06-18
+EC02582,Consumer,North,Organic Search,2024-05-18
+EC02583,Corporate,South,Social Media,2022-05-24
+EC02584,Consumer,West,Email,2024-06-19
+EC02585,Consumer,South,Email,2024-02-29
+EC02586,Corporate,North,Organic Search,2024-11-18
+EC02587,Corporate,West,Paid Ads,2023-06-07
+EC02588,Consumer,North,Social Media,2022-08-24
+EC02589,Consumer,South,Organic Search,2022-11-23
+EC02590,Consumer,North,Email,2023-07-26
+EC02591,Consumer,South,Email,2024-07-27
+EC02592,Corporate,West,Referral,2024-05-26
+EC02593,Home Office,South,Referral,2024-11-17
+EC02594,Home Office,South,Organic Search,2024-12-16
+EC02595,Consumer,West,Social Media,2024-12-26
+EC02596,Consumer,South,Paid Ads,2022-11-26
+EC02597,Consumer,North,Organic Search,2024-12-02
+EC02598,Consumer,South,Social Media,2024-10-14
+EC02599,Corporate,South,Referral,2022-03-31
+EC02600,Consumer,North,Referral,2023-03-22
+EC02601,Consumer,South,Email,2024-09-15
+EC02602,Consumer,North,Email,2022-06-03
+EC02603,Corporate,East,Organic Search,2022-03-03
+EC02604,Consumer,South,Organic Search,2023-04-17
+EC02605,Consumer,North,Organic Search,2023-08-25
+EC02606,Consumer,South,Organic Search,2024-05-22
+EC02607,Consumer,East,Social Media,2024-10-06
+EC02608,Corporate,South,Social Media,2024-05-26
+EC02609,Corporate,North,Email,2022-09-26
+EC02610,Consumer,West,Social Media,2024-09-17
+EC02611,Consumer,South,Organic Search,2023-04-07
+EC02612,Consumer,North,Email,2022-09-09
+EC02613,Consumer,North,Organic Search,2023-12-02
+EC02614,Consumer,West,Organic Search,2022-11-01
+EC02615,Consumer,South,Organic Search,2023-04-02
+EC02616,Corporate,East,Organic Search,2024-11-27
+EC02617,Consumer,North,Paid Ads,2024-03-17
+EC02618,Corporate,West,Organic Search,2024-10-01
+EC02619,Consumer,West,Social Media,2023-05-05
+EC02620,Home Office,East,Social Media,2024-04-04
+EC02621,Corporate,North,Referral,2023-12-01
+EC02622,Consumer,East,Social Media,2023-12-26
+EC02623,Consumer,West,Email,2023-10-26
+EC02624,Corporate,South,Paid Ads,2024-12-15
+EC02625,Consumer,South,Organic Search,2023-08-14
+EC02626,Corporate,West,Organic Search,2022-06-04
+EC02627,Consumer,South,Social Media,2024-03-28
+EC02628,Consumer,North,Social Media,2023-09-16
+EC02629,Consumer,West,Referral,2024-03-05
+EC02630,Consumer,South,Paid Ads,2023-02-23
+EC02631,Consumer,North,Referral,2023-06-24
+EC02632,Home Office,North,Paid Ads,2023-11-17
+EC02633,Corporate,North,Organic Search,2024-08-02
+EC02634,Consumer,South,Paid Ads,2024-01-07
+EC02635,Corporate,South,Social Media,2022-04-11
+EC02636,Consumer,South,Paid Ads,2023-09-18
+EC02637,Corporate,West,Referral,2024-08-13
+EC02638,Home Office,East,Organic Search,2023-01-31
+EC02639,Home Office,West,Organic Search,2024-02-07
+EC02640,Corporate,West,Social Media,2024-06-28
+EC02641,Corporate,West,Social Media,2024-05-04
+EC02642,Consumer,West,Email,2023-08-14
+EC02643,Consumer,West,Organic Search,2023-05-28
+EC02644,Consumer,West,Organic Search,2023-07-02
+EC02645,Corporate,South,Email,2023-12-09
+EC02646,Corporate,North,Organic Search,2024-01-09
+EC02647,Consumer,North,Paid Ads,2023-04-13
+EC02648,Corporate,West,Paid Ads,2023-06-15
+EC02649,Consumer,South,Email,2022-12-17
+EC02650,Corporate,South,Referral,2024-04-07
+EC02651,Consumer,South,Paid Ads,2023-10-18
+EC02652,Home Office,South,Social Media,2023-10-08
+EC02653,Consumer,South,Email,2022-10-27
+EC02654,Consumer,North,Email,2023-06-25
+EC02655,Corporate,South,Referral,2023-12-02
+EC02656,Consumer,West,Organic Search,2023-08-07
+EC02657,Consumer,North,Referral,2022-04-07
+EC02658,Corporate,West,Organic Search,2022-02-03
+EC02659,Corporate,East,Organic Search,2022-08-01
+EC02660,Consumer,West,Email,2023-04-23
+EC02661,Consumer,West,Email,2022-03-23
+EC02662,Home Office,West,Organic Search,2024-05-05
+EC02663,Consumer,North,Paid Ads,2022-01-26
+EC02664,Consumer,West,Paid Ads,2023-03-09
+EC02665,Home Office,North,Organic Search,2024-05-14
+EC02666,Corporate,West,Paid Ads,2024-06-25
+EC02667,Consumer,South,Organic Search,2023-10-10
+EC02668,Corporate,West,Organic Search,2022-04-07
+EC02669,Consumer,West,Organic Search,2023-06-15
+EC02670,Corporate,West,Social Media,2023-03-04
+EC02671,Corporate,South,Email,2024-07-20
+EC02672,Consumer,West,Social Media,2022-11-22
+EC02673,Consumer,South,Social Media,2023-03-13
+EC02674,Consumer,West,Paid Ads,2022-02-04
+EC02675,Corporate,South,Organic Search,2023-12-07
+EC02676,Consumer,West,Paid Ads,2024-12-11
+EC02677,Corporate,East,Paid Ads,2024-09-14
+EC02678,Consumer,South,Email,2022-06-19
+EC02679,Consumer,West,Referral,2022-11-06
+EC02680,Home Office,South,Referral,2022-05-09
+EC02681,Corporate,West,Paid Ads,2023-01-29
+EC02682,Corporate,South,Organic Search,2023-02-21
+EC02683,Consumer,West,Social Media,2023-08-28
+EC02684,Corporate,South,Paid Ads,2024-03-03
+EC02685,Consumer,West,Referral,2024-07-12
+EC02686,Consumer,North,Social Media,2022-06-24
+EC02687,Home Office,West,Organic Search,2024-08-25
+EC02688,Corporate,North,Paid Ads,2023-08-31
+EC02689,Consumer,East,Paid Ads,2022-11-08
+EC02690,Home Office,North,Paid Ads,2024-05-10
+EC02691,Corporate,South,Paid Ads,2022-07-01
+EC02692,Home Office,South,Paid Ads,2023-03-12
+EC02693,Corporate,North,Paid Ads,2022-01-01
+EC02694,Consumer,North,Organic Search,2022-10-13
+EC02695,Corporate,South,Organic Search,2024-07-27
+EC02696,Consumer,South,Paid Ads,2023-04-10
+EC02697,Consumer,West,Organic Search,2023-07-29
+EC02698,Consumer,North,Email,2023-06-10
+EC02699,Consumer,West,Email,2022-11-09
+EC02700,Consumer,West,Organic Search,2024-01-20
+EC02701,Home Office,South,Paid Ads,2024-04-13
+EC02702,Consumer,West,Organic Search,2024-02-20
+EC02703,Consumer,North,Email,2024-05-09
+EC02704,Consumer,West,Social Media,2023-10-13
+EC02705,Consumer,East,Paid Ads,2023-04-24
+EC02706,Consumer,South,Referral,2023-07-16
+EC02707,Home Office,West,Social Media,2023-07-04
+EC02708,Consumer,East,Social Media,2022-09-16
+EC02709,Corporate,West,Social Media,2022-09-05
+EC02710,Home Office,South,Organic Search,2024-10-05
+EC02711,Home Office,North,Organic Search,2023-10-16
+EC02712,Consumer,West,Organic Search,2023-11-06
+EC02713,Consumer,South,Social Media,2024-05-10
+EC02714,Home Office,South,Organic Search,2023-05-05
+EC02715,Consumer,North,Social Media,2024-12-20
+EC02716,Consumer,South,Email,2024-04-15
+EC02717,Consumer,South,Paid Ads,2022-12-01
+EC02718,Consumer,North,Organic Search,2023-04-17
+EC02719,Consumer,East,Paid Ads,2024-02-22
+EC02720,Consumer,South,Paid Ads,2024-08-25
+EC02721,Corporate,North,Organic Search,2023-03-30
+EC02722,Consumer,South,Paid Ads,2022-07-29
+EC02723,Consumer,North,Referral,2022-03-03
+EC02724,Corporate,West,Paid Ads,2023-12-06
+EC02725,Corporate,East,Organic Search,2023-05-20
+EC02726,Consumer,North,Paid Ads,2022-04-29
+EC02727,Consumer,South,Paid Ads,2022-07-16
+EC02728,Consumer,West,Organic Search,2024-11-29
+EC02729,Consumer,South,Email,2022-02-22
+EC02730,Consumer,South,Referral,2022-03-11
+EC02731,Corporate,South,Email,2022-05-15
+EC02732,Corporate,East,Social Media,2023-07-17
+EC02733,Corporate,West,Social Media,2023-01-15
+EC02734,Consumer,South,Social Media,2022-03-23
+EC02735,Home Office,West,Organic Search,2024-02-26
+EC02736,Consumer,South,Social Media,2023-08-08
+EC02737,Consumer,North,Social Media,2024-01-18
+EC02738,Consumer,East,Paid Ads,2022-08-22
+EC02739,Consumer,West,Organic Search,2023-05-24
+EC02740,Consumer,West,Social Media,2023-10-27
+EC02741,Home Office,East,Paid Ads,2023-12-07
+EC02742,Consumer,West,Email,2022-05-03
+EC02743,Corporate,East,Referral,2024-02-10
+EC02744,Consumer,West,Organic Search,2023-03-06
+EC02745,Consumer,West,Social Media,2023-05-08
+EC02746,Consumer,North,Paid Ads,2022-11-20
+EC02747,Consumer,West,Email,2024-12-15
+EC02748,Consumer,West,Organic Search,2024-11-23
+EC02749,Consumer,East,Organic Search,2022-07-12
+EC02750,Home Office,West,Referral,2023-08-12
+EC02751,Consumer,West,Paid Ads,2023-02-11
+EC02752,Consumer,East,Email,2022-03-25
+EC02753,Consumer,East,Referral,2024-05-26
+EC02754,Corporate,South,Referral,2022-06-08
+EC02755,Consumer,North,Paid Ads,2022-04-07
+EC02756,Consumer,South,Organic Search,2023-01-23
+EC02757,Home Office,North,Organic Search,2022-06-05
+EC02758,Home Office,South,Referral,2022-08-28
+EC02759,Consumer,South,Organic Search,2024-09-28
+EC02760,Consumer,South,Paid Ads,2022-08-24
+EC02761,Consumer,North,Social Media,2023-11-25
+EC02762,Consumer,South,Organic Search,2023-12-01
+EC02763,Corporate,South,Organic Search,2022-08-22
+EC02764,Consumer,North,Organic Search,2022-07-27
+EC02765,Consumer,North,Paid Ads,2022-10-06
+EC02766,Corporate,North,Organic Search,2024-03-23
+EC02767,Consumer,North,Paid Ads,2022-03-04
+EC02768,Consumer,North,Paid Ads,2023-06-12
+EC02769,Consumer,South,Social Media,2023-09-11
+EC02770,Consumer,West,Organic Search,2023-05-23
+EC02771,Corporate,East,Social Media,2023-05-07
+EC02772,Corporate,West,Email,2022-08-28
+EC02773,Consumer,North,Organic Search,2022-01-11
+EC02774,Home Office,North,Paid Ads,2023-12-26
+EC02775,Consumer,South,Paid Ads,2022-04-05
+EC02776,Consumer,North,Paid Ads,2023-06-01
+EC02777,Home Office,South,Organic Search,2024-06-26
+EC02778,Consumer,South,Organic Search,2024-07-14
+EC02779,Home Office,East,Paid Ads,2024-11-06
+EC02780,Consumer,South,Email,2023-10-20
+EC02781,Consumer,West,Organic Search,2023-08-18
+EC02782,Home Office,South,Paid Ads,2024-07-10
+EC02783,Consumer,South,Email,2023-01-26
+EC02784,Consumer,South,Referral,2022-04-11
+EC02785,Consumer,North,Paid Ads,2024-06-06
+EC02786,Corporate,East,Social Media,2024-08-18
+EC02787,Consumer,North,Social Media,2024-03-28
+EC02788,Consumer,West,Referral,2024-03-23
+EC02789,Consumer,West,Organic Search,2023-08-04
+EC02790,Consumer,South,Paid Ads,2024-09-05
+EC02791,Consumer,West,Paid Ads,2024-06-17
+EC02792,Consumer,South,Email,2022-10-13
+EC02793,Consumer,West,Social Media,2023-07-05
+EC02794,Corporate,North,Email,2022-10-19
+EC02795,Corporate,West,Referral,2024-04-15
+EC02796,Consumer,East,Email,2022-08-22
+EC02797,Consumer,South,Email,2023-01-13
+EC02798,Consumer,West,Organic Search,2024-03-07
+EC02799,Consumer,East,Social Media,2023-10-10
+EC02800,Consumer,North,Referral,2023-02-03
+EC02801,Consumer,East,Organic Search,2023-08-18
+EC02802,Home Office,West,Social Media,2024-06-16
+EC02803,Consumer,West,Social Media,2022-02-21
+EC02804,Corporate,West,Social Media,2023-08-26
+EC02805,Consumer,East,Referral,2022-11-08
+EC02806,Consumer,North,Organic Search,2023-01-18
+EC02807,Corporate,North,Social Media,2023-07-17
+EC02808,Consumer,North,Paid Ads,2023-09-23
+EC02809,Corporate,South,Social Media,2023-05-17
+EC02810,Consumer,South,Referral,2022-07-21
+EC02811,Consumer,South,Paid Ads,2023-06-18
+EC02812,Consumer,West,Email,2022-05-31
+EC02813,Corporate,South,Email,2024-01-15
+EC02814,Consumer,North,Paid Ads,2022-04-20
+EC02815,Consumer,North,Paid Ads,2023-05-18
+EC02816,Consumer,West,Organic Search,2022-03-30
+EC02817,Home Office,South,Paid Ads,2023-05-03
+EC02818,Home Office,North,Organic Search,2022-03-01
+EC02819,Consumer,West,Paid Ads,2024-10-02
+EC02820,Corporate,North,Paid Ads,2024-01-27
+EC02821,Corporate,West,Organic Search,2024-06-12
+EC02822,Consumer,South,Email,2024-11-12
+EC02823,Corporate,West,Email,2022-06-20
+EC02824,Consumer,South,Email,2022-10-15
+EC02825,Consumer,South,Organic Search,2023-08-15
+EC02826,Home Office,North,Organic Search,2024-12-22
+EC02827,Consumer,North,Paid Ads,2024-11-24
+EC02828,Home Office,East,Social Media,2022-12-18
+EC02829,Consumer,South,Email,2023-03-15
+EC02830,Corporate,East,Social Media,2024-09-29
+EC02831,Corporate,West,Paid Ads,2023-07-09
+EC02832,Consumer,West,Paid Ads,2024-09-15
+EC02833,Consumer,South,Paid Ads,2023-04-05
+EC02834,Consumer,South,Organic Search,2022-05-23
+EC02835,Corporate,West,Referral,2024-01-17
+EC02836,Consumer,North,Organic Search,2023-07-13
+EC02837,Home Office,West,Paid Ads,2024-11-08
+EC02838,Corporate,North,Paid Ads,2023-03-11
+EC02839,Consumer,South,Paid Ads,2023-08-16
+EC02840,Consumer,South,Organic Search,2023-12-02
+EC02841,Corporate,West,Social Media,2024-05-10
+EC02842,Home Office,East,Referral,2023-08-30
+EC02843,Home Office,South,Paid Ads,2024-04-20
+EC02844,Consumer,West,Email,2024-09-22
+EC02845,Consumer,West,Email,2024-06-23
+EC02846,Consumer,East,Social Media,2023-12-22
+EC02847,Corporate,South,Organic Search,2023-07-27
+EC02848,Corporate,West,Social Media,2022-03-09
+EC02849,Consumer,North,Referral,2025-01-02
+EC02850,Home Office,East,Referral,2024-12-10
+EC02851,Home Office,North,Organic Search,2023-08-02
+EC02852,Consumer,North,Email,2023-02-15
+EC02853,Corporate,North,Organic Search,2022-11-25
+EC02854,Consumer,South,Organic Search,2024-02-15
+EC02855,Corporate,West,Organic Search,2022-08-15
+EC02856,Consumer,South,Organic Search,2022-05-23
+EC02857,Consumer,South,Referral,2023-10-09
+EC02858,Consumer,North,Paid Ads,2024-08-27
+EC02859,Consumer,South,Organic Search,2024-01-05
+EC02860,Home Office,West,Organic Search,2022-02-02
+EC02861,Home Office,West,Organic Search,2024-07-07
+EC02862,Corporate,South,Email,2023-03-18
+EC02863,Corporate,North,Social Media,2024-02-08
+EC02864,Home Office,West,Social Media,2022-12-02
+EC02865,Consumer,West,Email,2024-03-20
+EC02866,Consumer,West,Social Media,2022-07-28
+EC02867,Consumer,West,Paid Ads,2023-10-05
+EC02868,Corporate,South,Organic Search,2022-02-12
+EC02869,Consumer,West,Organic Search,2023-04-28
+EC02870,Home Office,North,Paid Ads,2023-07-25
+EC02871,Consumer,North,Email,2024-03-13
+EC02872,Consumer,South,Organic Search,2024-02-15
+EC02873,Consumer,South,Social Media,2023-03-12
+EC02874,Consumer,North,Paid Ads,2023-12-11
+EC02875,Consumer,North,Paid Ads,2024-12-04
+EC02876,Consumer,North,Referral,2023-05-25
+EC02877,Consumer,West,Paid Ads,2022-01-02
+EC02878,Consumer,North,Email,2024-10-04
+EC02879,Corporate,West,Social Media,2022-09-05
+EC02880,Consumer,West,Organic Search,2023-10-15
+EC02881,Corporate,North,Social Media,2024-11-20
+EC02882,Home Office,West,Social Media,2023-08-25
+EC02883,Consumer,North,Email,2023-03-23
+EC02884,Consumer,East,Organic Search,2022-04-04
+EC02885,Corporate,West,Organic Search,2022-11-15
+EC02886,Corporate,North,Email,2024-08-04
+EC02887,Consumer,North,Paid Ads,2024-03-06
+EC02888,Corporate,West,Social Media,2024-10-09
+EC02889,Corporate,East,Organic Search,2023-10-31
+EC02890,Consumer,South,Paid Ads,2022-01-07
+EC02891,Consumer,South,Paid Ads,2022-07-08
+EC02892,Consumer,North,Paid Ads,2024-09-11
+EC02893,Consumer,West,Organic Search,2022-08-11
+EC02894,Consumer,East,Email,2022-01-18
+EC02895,Consumer,East,Paid Ads,2024-10-06
+EC02896,Consumer,South,Organic Search,2024-02-23
+EC02897,Home Office,North,Social Media,2023-07-31
+EC02898,Corporate,West,Referral,2024-09-26
+EC02899,Consumer,East,Email,2023-09-16
+EC02900,Consumer,South,Paid Ads,2023-05-03
+EC02901,Consumer,West,Organic Search,2024-08-10
+EC02902,Home Office,North,Organic Search,2024-11-20
+EC02903,Consumer,North,Paid Ads,2023-03-14
+EC02904,Corporate,South,Organic Search,2023-05-27
+EC02905,Consumer,West,Social Media,2023-09-29
+EC02906,Consumer,West,Paid Ads,2023-01-19
+EC02907,Consumer,West,Organic Search,2023-04-23
+EC02908,Home Office,South,Referral,2023-11-09
+EC02909,Consumer,South,Organic Search,2023-03-04
+EC02910,Consumer,South,Paid Ads,2022-03-04
+EC02911,Consumer,South,Referral,2023-06-10
+EC02912,Consumer,North,Email,2022-07-30
+EC02913,Home Office,West,Referral,2022-01-25
+EC02914,Corporate,South,Paid Ads,2022-04-25
+EC02915,Consumer,West,Referral,2022-04-15
+EC02916,Corporate,North,Paid Ads,2023-02-06
+EC02917,Consumer,West,Email,2022-06-28
+EC02918,Home Office,North,Social Media,2022-04-08
+EC02919,Consumer,West,Organic Search,2024-04-08
+EC02920,Consumer,North,Email,2023-10-19
+EC02921,Consumer,South,Referral,2024-11-12
+EC02922,Consumer,North,Social Media,2023-05-20
+EC02923,Consumer,East,Paid Ads,2022-11-30
+EC02924,Home Office,South,Social Media,2024-04-23
+EC02925,Home Office,West,Organic Search,2023-04-18
+EC02926,Consumer,South,Social Media,2023-11-06
+EC02927,Consumer,East,Paid Ads,2024-01-04
+EC02928,Consumer,North,Organic Search,2023-07-03
+EC02929,Corporate,South,Paid Ads,2024-09-22
+EC02930,Home Office,South,Organic Search,2022-04-18
+EC02931,Consumer,West,Social Media,2022-11-10
+EC02932,Consumer,West,Paid Ads,2025-01-01
+EC02933,Consumer,East,Organic Search,2023-04-25
+EC02934,Corporate,North,Social Media,2024-05-01
+EC02935,Home Office,West,Organic Search,2022-02-16
+EC02936,Consumer,North,Referral,2022-08-24
+EC02937,Consumer,South,Referral,2022-11-10
+EC02938,Home Office,South,Email,2023-11-23
+EC02939,Home Office,West,Email,2024-12-08
+EC02940,Consumer,North,Social Media,2023-03-12
+EC02941,Consumer,North,Organic Search,2024-04-14
+EC02942,Consumer,North,Paid Ads,2024-05-01
+EC02943,Consumer,North,Social Media,2022-03-21
+EC02944,Consumer,South,Paid Ads,2024-07-06
+EC02945,Corporate,West,Referral,2024-08-23
+EC02946,Consumer,West,Paid Ads,2022-12-21
+EC02947,Consumer,North,Organic Search,2024-02-20
+EC02948,Consumer,East,Email,2024-01-22
+EC02949,Consumer,North,Email,2024-10-06
+EC02950,Corporate,East,Organic Search,2024-05-17
+EC02951,Consumer,West,Referral,2023-10-01
+EC02952,Consumer,West,Social Media,2024-12-31
+EC02953,Consumer,North,Paid Ads,2024-04-02
+EC02954,Consumer,South,Social Media,2024-01-02
+EC02955,Consumer,East,Organic Search,2022-09-23
+EC02956,Consumer,East,Paid Ads,2023-02-20
+EC02957,Corporate,West,Organic Search,2022-11-20
+EC02958,Home Office,West,Social Media,2023-10-26
+EC02959,Consumer,East,Social Media,2022-12-06
+EC02960,Corporate,South,Social Media,2023-09-27
+EC02961,Corporate,West,Social Media,2024-04-24
+EC02962,Corporate,North,Paid Ads,2022-12-25
+EC02963,Consumer,North,Email,2024-04-05
+EC02964,Consumer,North,Social Media,2024-03-02
+EC02965,Home Office,South,Organic Search,2024-10-14
+EC02966,Corporate,North,Paid Ads,2024-07-10
+EC02967,Consumer,North,Paid Ads,2023-01-03
+EC02968,Corporate,West,Referral,2023-11-21
+EC02969,Consumer,West,Paid Ads,2022-07-01
+EC02970,Consumer,South,Social Media,2022-06-20
+EC02971,Consumer,North,Paid Ads,2024-05-19
+EC02972,Consumer,South,Social Media,2024-06-28
+EC02973,Consumer,West,Organic Search,2022-09-16
+EC02974,Corporate,West,Paid Ads,2024-11-15
+EC02975,Consumer,North,Email,2023-11-12
+EC02976,Consumer,East,Social Media,2023-01-20
+EC02977,Consumer,North,Organic Search,2023-01-31
+EC02978,Consumer,North,Social Media,2023-02-23
+EC02979,Consumer,North,Organic Search,2023-11-04
+EC02980,Consumer,South,Organic Search,2022-10-17
+EC02981,Consumer,East,Social Media,2024-11-12
+EC02982,Consumer,South,Organic Search,2022-04-06
+EC02983,Consumer,South,Email,2023-05-14
+EC02984,Consumer,North,Paid Ads,2023-02-22
+EC02985,Corporate,West,Social Media,2024-05-09
+EC02986,Home Office,East,Paid Ads,2022-06-13
+EC02987,Consumer,West,Email,2024-06-09
+EC02988,Consumer,South,Email,2022-06-29
+EC02989,Consumer,East,Social Media,2022-09-01
+EC02990,Corporate,West,Paid Ads,2024-12-04
+EC02991,Consumer,South,Social Media,2024-07-18
+EC02992,Consumer,West,Paid Ads,2022-03-16
+EC02993,Corporate,North,Organic Search,2022-10-06
+EC02994,Consumer,North,Paid Ads,2023-12-07
+EC02995,Consumer,West,Organic Search,2022-11-02
+EC02996,Consumer,North,Paid Ads,2023-08-18
+EC02997,Consumer,South,Social Media,2024-10-29
+EC02998,Consumer,North,Referral,2022-09-29
+EC02999,Corporate,South,Email,2024-07-02
+EC03000,Consumer,East,Paid Ads,2024-03-15

@@ -1,0 +1,101 @@
+product_id,category,product_name,unit_price,unit_cost
+P001,Electronics,Electronics Item 1,34000.0,29548.2
+P002,Electronics,Electronics Item 2,7720.0,6839.78
+P003,Electronics,Electronics Item 3,49060.0,42816.17
+P004,Electronics,Electronics Item 4,36930.0,32365.95
+P005,Electronics,Electronics Item 5,38570.0,33758.19
+P006,Electronics,Electronics Item 6,55830.0,49280.3
+P007,Electronics,Electronics Item 7,30770.0,26726.31
+P008,Electronics,Electronics Item 8,53830.0,46901.25
+P009,Electronics,Electronics Item 9,35040.0,30956.05
+P010,Electronics,Electronics Item 10,50440.0,44663.14
+P011,Electronics,Electronics Item 11,26110.0,23026.3
+P012,Electronics,Electronics Item 12,49140.0,43664.77
+P013,Electronics,Electronics Item 13,37690.0,33317.88
+P014,Electronics,Electronics Item 14,10220.0,8917.84
+P015,Electronics,Electronics Item 15,32400.0,28492.98
+P016,Electronics,Electronics Item 16,55830.0,48786.14
+P017,Electronics,Electronics Item 17,4530.0,4026.34
+P018,Electronics,Electronics Item 18,17970.0,15956.83
+P019,Electronics,Electronics Item 19,52110.0,45486.79
+P020,Electronics,Electronics Item 20,25190.0,22298.4
+P021,Fashion,Fashion Item 1,2500.0,1331.67
+P022,Fashion,Fashion Item 2,4240.0,2173.09
+P023,Fashion,Fashion Item 3,1520.0,780.31
+P024,Fashion,Fashion Item 4,4140.0,2236.27
+P025,Fashion,Fashion Item 5,1710.0,891.13
+P026,Fashion,Fashion Item 6,2230.0,1182.68
+P027,Fashion,Fashion Item 7,4220.0,2467.64
+P028,Fashion,Fashion Item 8,3740.0,1916.77
+P029,Fashion,Fashion Item 9,2360.0,1348.07
+P030,Fashion,Fashion Item 10,1200.0,646.49
+P031,Fashion,Fashion Item 11,3110.0,1598.13
+P032,Fashion,Fashion Item 12,1180.0,666.18
+P033,Fashion,Fashion Item 13,1830.0,985.52
+P034,Fashion,Fashion Item 14,1550.0,893.18
+P035,Fashion,Fashion Item 15,1070.0,634.03
+P036,Fashion,Fashion Item 16,2660.0,1504.19
+P037,Fashion,Fashion Item 17,3190.0,1681.11
+P038,Fashion,Fashion Item 18,2430.0,1397.96
+P039,Fashion,Fashion Item 19,530.0,280.64
+P040,Fashion,Fashion Item 20,2220.0,1268.11
+P041,Home & Kitchen,Home & Kitchen Item 1,11060.0,7597.76
+P042,Home & Kitchen,Home & Kitchen Item 2,7360.0,4975.17
+P043,Home & Kitchen,Home & Kitchen Item 3,6280.0,4273.09
+P044,Home & Kitchen,Home & Kitchen Item 4,5900.0,4092.53
+P045,Home & Kitchen,Home & Kitchen Item 5,5100.0,3518.77
+P046,Home & Kitchen,Home & Kitchen Item 6,3130.0,2214.5
+P047,Home & Kitchen,Home & Kitchen Item 7,10980.0,7878.22
+P048,Home & Kitchen,Home & Kitchen Item 8,4480.0,3184.63
+P049,Home & Kitchen,Home & Kitchen Item 9,10110.0,7034.1
+P050,Home & Kitchen,Home & Kitchen Item 10,8850.0,6193.73
+P051,Home & Kitchen,Home & Kitchen Item 11,970.0,689.71
+P052,Home & Kitchen,Home & Kitchen Item 12,8390.0,5832.29
+P053,Home & Kitchen,Home & Kitchen Item 13,3530.0,2443.49
+P054,Home & Kitchen,Home & Kitchen Item 14,8770.0,6273.23
+P055,Home & Kitchen,Home & Kitchen Item 15,10110.0,7059.46
+P056,Home & Kitchen,Home & Kitchen Item 16,12730.0,8837.9
+P057,Home & Kitchen,Home & Kitchen Item 17,5170.0,3535.9
+P058,Home & Kitchen,Home & Kitchen Item 18,3160.0,2126.3
+P059,Home & Kitchen,Home & Kitchen Item 19,1570.0,1138.16
+P060,Home & Kitchen,Home & Kitchen Item 20,11630.0,8135.79
+P061,Beauty,Beauty Item 1,2070.0,1135.48
+P062,Beauty,Beauty Item 2,420.0,195.11
+P063,Beauty,Beauty Item 3,2760.0,1298.16
+P064,Beauty,Beauty Item 4,1910.0,997.59
+P065,Beauty,Beauty Item 5,1200.0,623.04
+P066,Beauty,Beauty Item 6,320.0,158.08
+P067,Beauty,Beauty Item 7,2330.0,1226.5
+P068,Beauty,Beauty Item 8,2650.0,1385.06
+P069,Beauty,Beauty Item 9,530.0,256.04
+P070,Beauty,Beauty Item 10,2940.0,1349.82
+P071,Beauty,Beauty Item 11,2960.0,1403.79
+P072,Beauty,Beauty Item 12,2190.0,1128.53
+P073,Beauty,Beauty Item 13,940.0,466.88
+P074,Beauty,Beauty Item 14,2010.0,994.32
+P075,Beauty,Beauty Item 15,880.0,459.07
+P076,Sports,Sports Item 1,3660.0,2733.81
+P077,Sports,Sports Item 2,3330.0,2480.03
+P078,Sports,Sports Item 3,6030.0,4447.87
+P079,Sports,Sports Item 4,3070.0,2268.55
+P080,Sports,Sports Item 5,7810.0,5445.59
+P081,Sports,Sports Item 6,4110.0,3037.3
+P082,Sports,Sports Item 7,3330.0,2377.07
+P083,Sports,Sports Item 8,3540.0,2596.41
+P084,Sports,Sports Item 9,4400.0,3270.07
+P085,Sports,Sports Item 10,6000.0,4428.99
+P086,Sports,Sports Item 11,8550.0,6347.65
+P087,Sports,Sports Item 12,1330.0,935.17
+P088,Sports,Sports Item 13,2480.0,1774.61
+P089,Sports,Sports Item 14,1030.0,716.38
+P090,Sports,Sports Item 15,1360.0,1009.78
+P091,Books,Books Item 1,870.0,660.3
+P092,Books,Books Item 2,680.0,536.3
+P093,Books,Books Item 3,700.0,560.43
+P094,Books,Books Item 4,580.0,458.0
+P095,Books,Books Item 5,400.0,307.64
+P096,Books,Books Item 6,800.0,638.31
+P097,Books,Books Item 7,720.0,546.54
+P098,Books,Books Item 8,600.0,476.31
+P099,Books,Books Item 9,840.0,665.34
+P100,Books,Books Item 10,180.0,141.91
